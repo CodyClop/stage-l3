@@ -1,0 +1,601 @@
+|description|coarse_grained_pos|fine_grained_pos
+2400| Three people walk on grass adjacent to a river .|NUM NOUN VERB ADP NOUN ADJ ADP DET NOUN PUNCT|CD NNS VBP IN NN JJ IN DT NN .
+2401| A young boy wearing a black shirt is getting soaked in the rain .|DET ADJ NOUN VERB DET ADJ NOUN AUX AUX VERB ADP DET NOUN PUNCT|DT JJ NN VBG DT JJ NN VBZ VBG VBN IN DT NN .
+2402| A man operating a large tractor .|DET NOUN VERB DET ADJ NOUN PUNCT|DT NN VBG DT JJ NN .
+2403| Two men touch their heads together and smile .|NUM NOUN VERB PRON NOUN ADV CCONJ VERB PUNCT|CD NNS VBP PRP$ NNS RB CC VB .
+2404| Young man dressed in black with white tennis shoes , lying on a large gray stone .|ADJ NOUN VERB ADP ADJ ADP ADJ NOUN NOUN PUNCT VERB ADP DET ADJ ADJ NOUN PUNCT|JJ NN VBN IN JJ IN JJ NN NNS , VBG IN DT JJ JJ NN .
+2405| A woman with black hair is riding a motorcycle on a street .|DET NOUN ADP ADJ NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT NN IN JJ NN VBZ VBG DT NN IN DT NN .
+2406| A male baseball player catches a baseball in his mitt .|DET ADJ NOUN NOUN VERB DET NOUN ADP PRON NOUN PUNCT|DT JJ NN NN VBZ DT NN IN PRP$ NN .
+2407| A boy holds his hands on his head .|DET NOUN VERB PRON NOUN ADP PRON NOUN PUNCT|DT NN VBZ PRP$ NNS IN PRP$ NN .
+2408| A man in a blue football shirt carrying knick-knacks .|DET NOUN ADP DET ADJ NOUN NOUN VERB NOUN NOUN PUNCT|DT NN IN DT JJ NN NN VBG NN NNS .
+2409| Two beach volleyball players walk and talk together on the sand .|NUM NOUN NOUN NOUN VERB CCONJ VERB ADV ADP DET NOUN PUNCT|CD NN NN NNS VBP CC VB RB IN DT NN .
+2410| Two people sit in handicapped seats , one touching her ear while the other touches her eyes .|NUM NOUN VERB ADP ADJ NOUN PUNCT NUM VERB PRON NOUN SCONJ DET ADJ VERB PRON NOUN PUNCT|CD NNS VBP IN JJ NNS , CD VBG PRP NN IN DT JJ VBZ PRP$ NNS .
+2411| One lady focusing on her rollerskating .|NUM NOUN VERB ADP PRON VERB PUNCT|CD NN VBG IN PRP$ VBG .
+2412| Several children are standing on the beach .|ADJ NOUN AUX VERB ADP DET NOUN PUNCT|JJ NNS VBP VBG IN DT NN .
+2413| A little girl on the beach with a shovel in hand .|DET ADJ NOUN ADP DET NOUN ADP DET NOUN ADP NOUN PUNCT|DT JJ NN IN DT NN IN DT NN IN NN .
+2414| A motorcycle cop is getting ready to turn onto a new road .|DET NOUN NOUN AUX VERB ADJ PART VERB ADP DET ADJ NOUN PUNCT|DT NN NN VBZ VBG JJ TO VB IN DT JJ NN .
+2415| A girl in a white skirt is playing tennis on a grass court .|DET NOUN ADP DET ADJ NOUN AUX VERB NOUN ADP DET NOUN NOUN PUNCT|DT NN IN DT JJ NN VBZ VBG NN IN DT NN NN .
+2416| A person riding a yellow ATV over tall grass .|DET NOUN VERB DET ADJ NOUN ADP ADJ NOUN PUNCT|DT NN VBG DT JJ NN IN JJ NN .
+2417| Three men in orange vests and hard hats are next to a building .|NUM NOUN ADP PROPN NOUN CCONJ ADJ NOUN AUX ADJ ADP DET NOUN PUNCT|CD NNS IN NNP NNS CC JJ NNS VBP JJ IN DT NN .
+2418| Two women walk with purses walk down the street .|NUM NOUN VERB ADP NOUN VERB ADP DET NOUN PUNCT|CD NNS VBP IN NNS VBP IN DT NN .
+2419| At a women 's basketball game , a white-skinned woman dribbles against the Chicago defense .|ADP DET NOUN PART NOUN NOUN PUNCT DET ADJ ADJ NOUN VERB ADP DET PROPN NOUN PUNCT|IN DT NNS POS NN NN , DT JJ JJ NN VBZ IN DT NNP NN .
+2420| a group of young children playing in the grass with toilet paper|DET NOUN ADP ADJ NOUN VERB ADP DET NOUN ADP NOUN NOUN|DT NN IN JJ NNS VBG IN DT NN IN NN NN
+2421| Two dogs interacting with each other .|NUM NOUN VERB ADP DET ADJ PUNCT|CD NNS VBG IN DT JJ .
+2422| A boy holding a cookie and wearing a red hat is looking at the camera .|DET NOUN VERB DET NOUN CCONJ VERB DET ADJ NOUN AUX VERB ADP DET NOUN PUNCT|DT NN VBG DT NN CC VBG DT JJ NN VBZ VBG IN DT NN .
+2423| Man cutting cake on a pink mat .|NOUN VERB NOUN ADP DET ADJ NOUN PUNCT|NN VBG NN IN DT JJ NN .
+2424| A group of people on the street dancing to a four men playing various conga drums .|DET NOUN ADP NOUN ADP DET NOUN NOUN ADP DET NUM NOUN VERB ADJ NOUN NOUN PUNCT|DT NN IN NNS IN DT NN NN IN DT CD NNS VBG JJ NN NNS .
+2425| Girl with long black hair and white helmet , pouring water from black kettle into mugs .|NOUN ADP ADJ ADJ NOUN CCONJ ADJ NOUN PUNCT VERB NOUN ADP ADJ NOUN ADP NOUN PUNCT|NN IN JJ JJ NN CC JJ NN , VBG NN IN JJ NN IN NNS .
+2426| A person sleeping at a restaurant .|DET NOUN VERB ADP DET NOUN PUNCT|DT NN VBG IN DT NN .
+2427| a lone skier skiing down a snowy mountain on one ski .|DET ADJ NOUN VERB ADP DET ADJ NOUN ADP NUM NOUN PUNCT|DT JJ NN VBG RP DT JJ NN IN CD NN .
+2428| A black greyhound dog is running on a track wearing the number six on a yellow jacket .|DET ADJ NOUN NOUN AUX VERB ADP DET NOUN VERB DET NOUN NUM ADP DET ADJ NOUN PUNCT|DT JJ NN NN VBZ VBG IN DT NN VBG DT NN CD IN DT JJ NN .
+2429| A group of men pulling a rope on a crag .|DET NOUN ADP NOUN VERB DET NOUN ADP DET NOUN PUNCT|DT NN IN NNS VBG DT NN IN DT NN .
+2430| People walking on the city streets .|NOUN VERB ADP DET NOUN NOUN PUNCT|NNS VBG IN DT NN NNS .
+2431| Eight people meditating on the beach .|NUM NOUN VERB ADP DET NOUN PUNCT|CD NNS VBG IN DT NN .
+2432| Several elderly people are interacting with others .|ADJ ADJ NOUN AUX VERB ADP NOUN PUNCT|JJ JJ NNS VBP VBG IN NNS .
+2433| Girl dancing on the beach .|NOUN VERB ADP DET NOUN PUNCT|NN VBG IN DT NN .
+2434| a crowd of people sitting under a tarp eating .|DET NOUN ADP NOUN VERB ADP DET NOUN VERB PUNCT|DT NN IN NNS VBG IN DT NN VBG .
+2435| A man is taking a video of another man while a few others look on .|DET NOUN AUX VERB DET NOUN ADP DET NOUN SCONJ DET ADJ NOUN VERB ADP PUNCT|DT NN VBZ VBG DT NN IN DT NN IN DT JJ NNS VBP RP .
+2436| A young boy wearing white tennis shoes holding a poster .|DET ADJ NOUN VERB ADJ NOUN NOUN VERB DET NOUN PUNCT|DT JJ NN VBG JJ NN NNS VBG DT NN .
+2437| A group of men and women walk in unison to one side of a stage .|DET NOUN ADP NOUN CCONJ NOUN VERB ADP NOUN ADP NUM NOUN ADP DET NOUN PUNCT|DT NN IN NNS CC NNS VBP IN NN IN CD NN IN DT NN .
+2438| A person drives around a futuristic looking vehicle while a man approaches her and a crowd watches .|DET NOUN VERB ADV DET ADJ NOUN NOUN SCONJ DET NOUN VERB PRON CCONJ DET NOUN VERB PUNCT|DT NN VBZ RB DT JJ NN NN IN DT NN VBZ PRP CC DT NN VBZ .
+2439| Slender dog running in the sand on a sunny day .|ADJ NOUN VERB ADP DET NOUN ADP DET ADJ NOUN PUNCT|JJ NN VBG IN DT NN IN DT JJ NN .
+2440| Young boy sitting down outside and blowing bubbles .|ADJ NOUN VERB ADP ADV CCONJ VERB NOUN PUNCT|JJ NN VBG RP RB CC VBG NNS .
+2441| A large group of people gathered at night .|DET ADJ NOUN ADP NOUN VERB ADP NOUN PUNCT|DT JJ NN IN NNS VBD IN NN .
+2442| A woman in a skirt is talking on the phone outside a restaurant .|DET NOUN ADP DET NOUN AUX VERB ADP DET NOUN ADP DET NOUN PUNCT|DT NN IN DT NN VBZ VBG IN DT NN IN DT NN .
+2443| A woman in a helmet poses by her bicycle .|DET NOUN ADP DET NOUN NOUN ADP PRON NOUN PUNCT|DT NN IN DT NN NNS IN PRP$ NN .
+2444| Three parked taxis with two parked police cars behind them .|NUM VERB NOUN ADP NUM VERB NOUN NOUN ADP PRON PUNCT|CD VBD NNS IN CD VBN NN NNS IN PRP .
+2445| A shrouded man coming out from a dark doorway , holding a skull .|DET ADJ NOUN VERB ADP ADP DET ADJ NOUN PUNCT VERB DET NOUN PUNCT|DT JJ NN VBG RP IN DT JJ NN , VBG DT NN .
+2446| A men 's track meet with eight competitors , every other runner wearing orange .|DET NOUN PART NOUN VERB ADP NUM NOUN PUNCT DET ADJ NOUN VERB NOUN PUNCT|DT NNS POS NN VB IN CD NNS , DT JJ NN VBG NN .
+2447| Four people are sitting down on the floor and eating .|NUM NOUN AUX VERB ADP ADP DET NOUN CCONJ VERB PUNCT|CD NNS VBP VBG RP IN DT NN CC VBG .
+2448| People are sitting around and playing in a fountain .|NOUN AUX VERB ADV CCONJ VERB ADP DET NOUN PUNCT|NNS VBP VBG RB CC VBG IN DT NN .
+2449| a man talks into a microphone in front of a gathering while being cheered and applauded upon .|DET NOUN VERB ADP DET NOUN ADP NOUN ADP DET NOUN SCONJ AUX VERB CCONJ VERB SCONJ PUNCT|DT NN VBZ IN DT NN IN NN IN DT NN IN VBG VBN CC VBD IN .
+2450| A female student who is coloring on paper with an Orange medium .|DET ADJ NOUN PRON AUX VERB ADP NOUN ADP DET PROPN NOUN PUNCT|DT JJ NN WP VBZ VBG IN NN IN DT NNP NN .
+2451| A female child walking , holding the hands of two male children .|DET ADJ NOUN VERB PUNCT VERB DET NOUN ADP NUM ADJ NOUN PUNCT|DT JJ NN VBG , VBG DT NNS IN CD JJ NNS .
+2452| A man dramatically kissing a woman on a path .|DET NOUN ADV VERB DET NOUN ADP DET NOUN PUNCT|DT NN RB VBG DT NN IN DT NN .
+2453| Black dog prancing through the river .|ADJ NOUN VERB ADP DET NOUN PUNCT|JJ NN VBG IN DT NN .
+2454| Female sitting in the middle of the lake on a rock .|ADJ NOUN ADP DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|JJ NN IN DT NN IN DT NN IN DT NN .
+2455| A large crowd of people raise their arms in an urban setting while photographers document the event .|DET ADJ NOUN ADP NOUN VERB PRON NOUN ADP DET ADJ NOUN SCONJ NOUN VERB DET NOUN PUNCT|DT JJ NN IN NNS VBP PRP$ NNS IN DT JJ NN IN NNS VBP DT NN .
+2456| two people in a rowboat in a river .|NUM NOUN ADP DET NOUN ADP DET NOUN PUNCT|CD NNS IN DT NN IN DT NN .
+2457| A little girl dressed in white is playing with water .|DET ADJ NOUN VERB ADP ADJ AUX VERB ADP NOUN PUNCT|DT JJ NN VBN IN JJ VBZ VBG IN NN .
+2458| A boy rides a surfboard over a small wave in bright blue water .|DET NOUN VERB DET NOUN ADP DET ADJ NOUN ADP ADJ ADJ NOUN PUNCT|DT NN VBZ DT NN IN DT JJ NN IN JJ JJ NN .
+2459| Man riding a surfboard on a wave .|NOUN VERB DET NOUN ADP DET NOUN PUNCT|NN VBG DT NN IN DT NN .
+2460| Two black dogs run in a grass field with two white sheep in the background .|NUM ADJ NOUN VERB ADP DET NOUN NOUN ADP NUM ADJ NOUN ADP DET NOUN PUNCT|CD JJ NNS VBP IN DT NN NN IN CD JJ NNS IN DT NN .
+2461| A very brave person is skying down a steep slope with no clouds in the sky .|DET ADV ADJ NOUN AUX VERB ADP DET ADJ NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT RB JJ NN VBZ VBG RP DT JJ NN IN DT NNS IN DT NN .
+2462| A tortoise attempts to eat a berry .|DET NOUN NOUN PART VERB DET NOUN PUNCT|DT NN NNS TO VB DT NN .
+2463| A large group of young children are lined up , while several adults look on .|DET ADJ NOUN ADP ADJ NOUN AUX VERB ADP PUNCT SCONJ ADJ NOUN VERB ADP PUNCT|DT JJ NN IN JJ NNS VBP VBN RP , IN JJ NNS VBP IN .
+2464| A woman teaching or telling a story to a group of children in a classroom .|DET NOUN VERB CCONJ VERB DET NOUN ADP DET NOUN ADP NOUN ADP DET NOUN PUNCT|DT NN VBG CC VBG DT NN IN DT NN IN NNS IN DT NN .
+2465|" Nine female dancers wear tutus and use """" Guitar Hero """" guitars as a prop on stage ."|NUM ADJ NOUN VERB NOUN CCONJ VERB PUNCT PUNCT PROPN PROPN PUNCT PUNCT NOUN ADP DET NOUN ADP NOUN PUNCT|CD JJ NNS VBP NN CC VB `` `` NNP NNP `` `` NNS IN DT NN IN NN .
+2466| A little girl rides a red pan down a green slide .|DET ADJ NOUN VERB DET ADJ NOUN ADP DET ADJ NOUN PUNCT|DT JJ NN VBZ DT JJ NN IN DT JJ NN .
+2467| A man in a yellow work helmet has a rope in his hand .|DET NOUN ADP DET ADJ NOUN NOUN VERB DET NOUN ADP PRON NOUN PUNCT|DT NN IN DT JJ NN NN VBZ DT NN IN PRP$ NN .
+2468| Two teenagers are staring across a table .|NUM NOUN AUX VERB ADP DET NOUN PUNCT|CD NNS VBP VBG IN DT NN .
+2469| People on bikes ride down a street .|NOUN ADP NOUN VERB ADP DET NOUN PUNCT|NNS IN NNS VBP IN DT NN .
+2470| Cowboy with a purple shirt and black vest trying to hold on during a wild horse ride .|PROPN ADP DET ADJ NOUN CCONJ ADJ NOUN VERB PART VERB ADP ADP DET ADJ NOUN NOUN PUNCT|NNP IN DT JJ NN CC JJ NN VBG TO VB RP IN DT JJ NN NN .
+2471| A lot of people outside the gourmet curry hut .|DET NOUN ADP NOUN ADP DET PROPN PROPN VERB PUNCT|DT NN IN NNS IN DT NNP NNP VBD .
+2472| A black woman wearing a blue hat and white t-shirt is standing at a snow cone stand .|DET ADJ NOUN VERB DET ADJ NOUN CCONJ PROPN PROPN NOUN AUX VERB ADP DET NOUN NOUN NOUN PUNCT|DT JJ NN VBG DT JJ NN CC NNP NNP NN VBZ VBG IN DT NN NN NN .
+2473| A biker speeds down a dirt path in the woods .|DET NOUN NOUN ADP DET NOUN NOUN ADP DET NOUN PUNCT|DT NN NNS IN DT NN NN IN DT NNS .
+2474| A couple having lunch on a public lunch table .|DET NOUN VERB NOUN ADP DET ADJ NOUN NOUN PUNCT|DT NN VBG NN IN DT JJ NN NN .
+2475| Closeup of football player ,  25 .|PROPN ADP NOUN NOUN PUNCT SPACE NUM PUNCT|NNP IN NN NN , _SP CD .
+2476| This man is fit and well toned running enthusiast .|DET NOUN AUX ADJ CCONJ ADV VERB NOUN NOUN PUNCT|DT NN VBZ JJ CC RB VBN NN NN .
+2477| A person jumps a bicycle off a large dirt ramp .|DET NOUN VERB DET NOUN ADP DET ADJ NOUN NOUN PUNCT|DT NN VBZ DT NN IN DT JJ NN NN .
+2478| A women 's roller derby team is skating around the rink .|DET NOUN PART NOUN NOUN NOUN AUX VERB ADP DET NOUN PUNCT|DT NNS POS NN NN NN VBZ VBG IN DT NN .
+2479| A red dog stands in a rocky shore , its feet in the sea .|DET ADJ NOUN VERB ADP DET ADJ NOUN PUNCT PRON NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ IN DT JJ NN , PRP$ NNS IN DT NN .
+2480| A filled trashcan with graffiti on it .|DET VERB NOUN ADP PROPN ADP PRON PUNCT|DT VBN NN IN NNP IN PRP .
+2481| Both dogs retrieve the play toy from the water .|DET NOUN VERB DET NOUN NOUN ADP DET NOUN PUNCT|DT NNS VBP DT NN NN IN DT NN .
+2482| A bride and a bridesmaid are on a beach .|DET NOUN CCONJ DET NOUN AUX ADP DET NOUN PUNCT|DT NN CC DT NN VBP IN DT NN .
+2483| Little league football players run down the field .|ADJ NOUN NOUN NOUN VERB ADP DET NOUN PUNCT|JJ NN NN NNS VBP IN DT NN .
+2484| A man in a sleeveless shirt juggling three flaming torches .|DET NOUN ADP DET ADJ NOUN VERB NUM ADJ NOUN PUNCT|DT NN IN DT JJ NN VBG CD JJ NNS .
+2485| A dog running though a green yard .|DET NOUN VERB SCONJ DET ADJ NOUN PUNCT|DT NN VBG IN DT JJ NN .
+2486| A man in a black suit standing inside of a train .|DET NOUN ADP DET ADJ NOUN VERB ADV ADP DET NOUN PUNCT|DT NN IN DT JJ NN VBG RB IN DT NN .
+2487| A race to beat a record time .|DET NOUN PART VERB DET NOUN NOUN PUNCT|DT NN TO VB DT NN NN .
+2488| The two women in the middle are holding red cans .|DET NUM NOUN ADP DET NOUN AUX VERB ADJ NOUN PUNCT|DT CD NNS IN DT NN VBP VBG JJ NNS .
+2489| A group of people are looking at the sky including three guys in each balcony .|DET NOUN ADP NOUN AUX VERB ADP DET NOUN VERB NUM NOUN ADP DET NOUN PUNCT|DT NN IN NNS VBP VBG IN DT NN VBG CD NNS IN DT NN .
+2490| A woman in white is holding a bouquet of roses .|DET NOUN ADP PROPN AUX VERB DET NOUN ADP NOUN PUNCT|DT NN IN NNP VBZ VBG DT NN IN NNS .
+2491| A man in a white shirt slides home during a baseball game .|DET NOUN ADP DET ADJ NOUN VERB ADV ADP DET NOUN NOUN PUNCT|DT NN IN DT JJ NN VBZ RB IN DT NN NN .
+2492| A band performing outside .|DET NOUN VERB ADV PUNCT|DT NN VBG RB .
+2493| Women playing beach volleyball .|NOUN VERB NOUN NOUN PUNCT|NNS VBG NN NN .
+2494| A nice young lady on a stage dancing and look very beautiful .|DET ADJ ADJ NOUN ADP DET NOUN NOUN CCONJ VERB ADV ADJ PUNCT|DT JJ JJ NN IN DT NN NN CC VB RB JJ .
+2495| a boy in a red hooded top is ice skating on an outdoor ice rink .|DET NOUN ADP DET ADJ ADJ NOUN AUX NOUN NOUN ADP DET ADJ NOUN NOUN PUNCT|DT NN IN DT JJ JJ NN VBZ NN NN IN DT JJ NN NN .
+2496| A man in a blue shirt is riding a bike along a road .|DET NOUN ADP DET ADJ NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT NN IN DT JJ NN VBZ VBG DT NN IN DT NN .
+2497| Someone parasailing with a green parachute that has a face on the top of it|PRON VERB ADP DET ADJ NOUN PRON VERB DET NOUN ADP DET NOUN ADP PRON|NN VBG IN DT JJ NN WDT VBZ DT NN IN DT NN IN PRP
+2498| A man in red shorts jumps behind a volleyball net .|DET NOUN ADP ADJ NOUN VERB ADP DET NOUN NOUN PUNCT|DT NN IN JJ NNS VBZ IN DT NN NN .
+2499| A young Asian woman with long black hair sits cross-legged and checks her mobile phone .|DET ADJ ADJ NOUN ADP ADJ ADJ NOUN VERB VERB ADJ CCONJ VERB PRON ADJ NOUN PUNCT|DT JJ JJ NN IN JJ JJ NN VBZ VB JJ CC VBZ PRP$ JJ NN .
+2500| People attending an event in a park .|NOUN VERB DET NOUN ADP DET NOUN PUNCT|NNS VBG DT NN IN DT NN .
+2501| A man in a red jacket is riding a white horse through a street .|DET NOUN ADP DET ADJ NOUN AUX VERB DET ADJ NOUN ADP DET NOUN PUNCT|DT NN IN DT JJ NN VBZ VBG DT JJ NN IN DT NN .
+2502| A man preparing to repel down a mountain .|DET NOUN VERB PART VERB ADP DET NOUN PUNCT|DT NN VBG TO VB RP DT NN .
+2503| A woman sitting in chair discusses a topic into a microphone .|DET NOUN VERB ADP NOUN VERB DET NOUN ADP DET NOUN PUNCT|DT NN VBG IN NN VBZ DT NN IN DT NN .
+2504| A man and a woman at an outing talking to each other .|DET NOUN CCONJ DET NOUN ADP DET NOUN VERB ADP DET ADJ PUNCT|DT NN CC DT NN IN DT NN VBG IN DT JJ .
+2505| A horse jockey covered in mud during a race .|DET NOUN NOUN VERB ADP NOUN ADP DET NOUN PUNCT|DT NN NN VBN IN NN IN DT NN .
+2506| A guy is skateboarding .|DET NOUN AUX VERB PUNCT|DT NN VBZ VBG .
+2507| Tourists riding a double decker bus with people watching them from an office window .|NOUN VERB DET ADJ NOUN NOUN ADP NOUN VERB PRON ADP DET NOUN NOUN PUNCT|NNS VBG DT JJ NN NN IN NNS VBG PRP IN DT NN NN .
+2508| Three people are riding around on ATV 's and motorcycles .|NUM NOUN AUX VERB ADP ADP PROPN PART CCONJ NOUN PUNCT|CD NNS VBP VBG RP IN NNP POS CC NNS .
+2509| A greyhound racing .|DET NOUN NOUN PUNCT|DT NN NN .
+2510| Three people on ATVs in a brown field turn their heads to look at the camera .|NUM NOUN ADP NOUN ADP DET ADJ NOUN VERB PRON NOUN PART VERB ADP DET NOUN PUNCT|CD NNS IN NNS IN DT JJ NN VB PRP$ NNS TO VB IN DT NN .
+2511| A large group of children is sitting together with adults behind them .|DET ADJ NOUN ADP NOUN AUX VERB ADV ADP NOUN ADP PRON PUNCT|DT JJ NN IN NNS VBZ VBG RB IN NNS IN PRP .
+2512| a young girl in a purple bathing suit taking a break by the pool .|DET ADJ NOUN ADP DET ADJ NOUN NOUN VERB DET NOUN ADP DET NOUN PUNCT|DT JJ NN IN DT JJ NN NN VBG DT NN IN DT NN .
+2513| A man with a camera on his head is with two people on the airplane .|DET NOUN ADP DET NOUN ADP PRON NOUN AUX ADP NUM NOUN ADP DET NOUN PUNCT|DT NN IN DT NN IN PRP$ NN VBZ IN CD NNS IN DT NN .
+2514| Four people and a baby are crossing the street at a crosswalk .|NUM NOUN CCONJ DET NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|CD NNS CC DT NN VBP VBG DT NN IN DT NN .
+2515| Someone walking along a wall .|PRON VERB ADP DET NOUN PUNCT|NN VBG IN DT NN .
+2516| A dog in midair catching a ring , while another dog watches .|DET NOUN ADP NOUN VERB DET NOUN PUNCT SCONJ DET NOUN VERB PUNCT|DT NN IN NN VBG DT NN , IN DT NN VBZ .
+2517| Two men and a woman interact at a table .|NUM NOUN CCONJ DET NOUN VERB ADP DET NOUN PUNCT|CD NNS CC DT NN VB IN DT NN .
+2518| A boy has climbed to the top of a slide .|DET NOUN AUX VERB ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBZ VBN IN DT NN IN DT NN .
+2519| Two men , one on a bike and one that is walking .|NUM NOUN PUNCT NUM ADP DET NOUN CCONJ NOUN PRON AUX VERB PUNCT|CD NNS , CD IN DT NN CC NN WDT VBZ VBG .
+2520| Two young people hold each other closely as they walk down the sidewalk .|NUM ADJ NOUN VERB DET ADJ ADV SCONJ PRON VERB ADP DET NOUN PUNCT|CD JJ NNS VBP DT JJ RB IN PRP VBP IN DT NN .
+2521| Two women sitting at a table in a cafe reading and working on a laptop computer .|NUM NOUN VERB ADP DET NOUN ADP DET NOUN NOUN CCONJ VERB ADP DET NOUN NOUN PUNCT|CD NNS VBG IN DT NN IN DT NN NN CC VBG IN DT NN NN .
+2522| A child with a water house to his mouth .|DET NOUN ADP DET NOUN NOUN ADP PRON NOUN PUNCT|DT NN IN DT NN NN IN PRP$ NN .
+2523| A young boy wearing a blue and red hat is using a camera near a swing set .|DET ADJ NOUN VERB DET ADJ CCONJ ADJ PROPN AUX VERB DET NOUN ADP DET NOUN VERB PUNCT|DT JJ NN VBG DT JJ CC JJ NNP VBZ VBG DT NN IN DT NN VBN .
+2524| City workers are working on the subway .|NOUN NOUN AUX VERB ADP DET NOUN PUNCT|NN NNS VBP VBG IN DT NN .
+2525| A pilot , smiling , and happy about what he sees .|DET NOUN PUNCT VERB PUNCT CCONJ ADJ ADP PRON PRON VERB PUNCT|DT NN , VBG , CC JJ IN WP PRP VBZ .
+2526| A man on a scaffold in front of a house is smiling and posing for the photographer .|DET NOUN ADP DET NOUN ADP NOUN ADP DET NOUN AUX VERB CCONJ VERB ADP DET NOUN PUNCT|DT NN IN DT NN IN NN IN DT NN VBZ VBG CC VBG IN DT NN .
+2527| The skater rides his board on the pipe .|DET ADJ VERB PRON NOUN ADP DET NOUN PUNCT|DT JJ VBZ PRP$ NN IN DT NN .
+2528| In this photo we have two soccer players going for a header .|ADP DET NOUN PRON VERB NUM NOUN NOUN VERB ADP DET NOUN PUNCT|IN DT NN PRP VBP CD NN NNS VBG IN DT NN .
+2529| A boy leaning on a stick is holding the wrist of a smaller boy .|DET NOUN VERB ADP DET NOUN AUX VERB DET NOUN ADP DET ADJ NOUN PUNCT|DT NN VBG IN DT NN VBZ VBG DT NN IN DT JJR NN .
+2530| A man with green pants sitting on a bench reading a publication .|DET NOUN ADP ADJ NOUN VERB ADP DET NOUN VERB DET NOUN PUNCT|DT NN IN JJ NNS VBG IN DT NN VBG DT NN .
+2531| The musician is playing the guitar and singing .|DET NOUN AUX VERB DET NOUN CCONJ NOUN PUNCT|DT NN VBZ VBG DT NN CC NN .
+2532| A woman in a tan jacket walks down a busy sidewalk .|DET NOUN ADP DET PROPN NOUN VERB ADP DET ADJ NOUN PUNCT|DT NN IN DT NNP NN VBZ RP DT JJ NN .
+2533| A man uses his cellphone on the street .|DET NOUN VERB PRON NOUN ADP DET NOUN PUNCT|DT NN VBZ PRP$ NN IN DT NN .
+2534| A woman wearing a bikini and skirt with a sword balancing on her head .|DET NOUN VERB DET NOUN CCONJ NOUN ADP DET NOUN VERB ADP PRON NOUN PUNCT|DT NN VBG DT NN CC NN IN DT NN VBG IN PRP$ NN .
+2535| Two men on horses compete to see who can rope the calf first .|NUM NOUN ADP NOUN VERB PART VERB PRON AUX VERB DET NOUN ADV PUNCT|CD NNS IN NNS VBP TO VB WP MD VB DT NN RB .
+2536| Woman putting on makeup while multitasking and talking on the phone .|NOUN VERB ADP NOUN SCONJ VERB CCONJ VERB ADP DET NOUN PUNCT|NN VBG RP NN IN VBG CC VBG IN DT NN .
+2537| A man in an orange shirt playing tennis .|DET NOUN ADP DET PROPN NOUN VERB NOUN PUNCT|DT NN IN DT NNP NN VBG NN .
+2538| An oriental man in casual business dress is standing outside .|DET ADJ NOUN ADP ADJ NOUN NOUN AUX VERB ADV PUNCT|DT JJ NN IN JJ NN NN VBZ VBG RB .
+2539| A man wearing a black shirt is walking down the street .|DET NOUN VERB DET ADJ NOUN AUX VERB ADP DET NOUN PUNCT|DT NN VBG DT JJ NN VBZ VBG IN DT NN .
+2540| A man and woman look at something together in front of an ornately carved pillar .|DET NOUN CCONJ NOUN VERB ADP PRON ADV ADP NOUN ADP DET ADV VERB NOUN PUNCT|DT NN CC NN VBP IN NN RB IN NN IN DT RB VBN NN .
+2541| A boy on a skateboard is on a wall near the water and next to grass .|DET NOUN ADP DET NOUN AUX ADP DET NOUN ADP DET NOUN CCONJ ADV ADP NOUN PUNCT|DT NN IN DT NN VBZ IN DT NN IN DT NN CC RB IN NN .
+2542| A person wearing a pink robe is riding a bike .|DET NOUN VERB DET ADJ NOUN AUX VERB DET NOUN PUNCT|DT NN VBG DT JJ NN VBZ VBG DT NN .
+2543| A child is spinning a hand helicopter in a field of grass .|DET NOUN AUX VERB DET NOUN NOUN ADP DET NOUN ADP NOUN PUNCT|DT NN VBZ VBG DT NN NN IN DT NN IN NN .
+2544| A smiling young boy in a blue t-shirt plays in the water .|DET VERB ADJ NOUN ADP DET PROPN NOUN NOUN VERB ADP DET NOUN PUNCT|DT VBG JJ NN IN DT NNP NN NN VBZ IN DT NN .
+2545| A family having a turkey dinner .|DET NOUN VERB DET ADJ NOUN PUNCT|DT NN VBG DT JJ NN .
+2546| A child in a white and orange outfit doing push ups .|DET NOUN ADP DET ADJ CCONJ NOUN NOUN VERB NOUN NOUN PUNCT|DT NN IN DT JJ CC NN NN VBG NN NNS .
+2547| A man sitting , wearing a San Diego Padres hat plays on a keyboard .|DET NOUN VERB PUNCT VERB DET PROPN PROPN PROPN NOUN VERB ADP DET NOUN PUNCT|DT NN VBG , VBG DT NNP NNP NNP NN VBZ IN DT NN .
+2548| Men working in a warehouse , putting rice into barrels .|NOUN VERB ADP DET NOUN PUNCT VERB NOUN ADP NOUN PUNCT|NNS VBG IN DT NN , VBG NN IN NNS .
+2549| A man with glasses and a hat sitting on a bench outside holding a dog leash .|DET NOUN ADP NOUN CCONJ DET NOUN VERB ADP DET NOUN ADP VERB DET NOUN NOUN PUNCT|DT NN IN NNS CC DT NN VBG IN DT NN IN VBG DT NN NN .
+2550| Dog swimming in the water with a stick .|PROPN NOUN ADP DET NOUN ADP DET NOUN PUNCT|NNP NN IN DT NN IN DT NN .
+2551| At the rodeo a cowboy rides a horse .|ADP DET NOUN DET NOUN VERB DET NOUN PUNCT|IN DT NN DT NN VBZ DT NN .
+2552| A man rides a bike on a dirt path .|DET NOUN VERB DET NOUN ADP DET NOUN NOUN PUNCT|DT NN VBZ DT NN IN DT NN NN .
+2553| A man without a shirt on is riding a bicycle .|DET NOUN ADP DET NOUN ADP AUX VERB DET NOUN PUNCT|DT NN IN DT NN IN VBZ VBG DT NN .
+2554| A man jumping up in the snow next to a body of water .|DET NOUN VERB ADP ADP DET NOUN ADV ADP DET NOUN ADP NOUN PUNCT|DT NN VBG RP IN DT NN RB IN DT NN IN NN .
+2555| An American footballer in a white and purple strip is making a run with the ball .|DET PROPN PROPN ADP DET ADJ CCONJ ADJ NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT NNP NNP IN DT JJ CC JJ NN VBZ VBG DT NN IN DT NN .
+2556| Young men playing a sport that appears to be cricket .|ADJ NOUN VERB DET NOUN PRON VERB PART AUX NOUN PUNCT|JJ NNS VBG DT NN WDT VBZ TO VB NN .
+2557| A man is snowboarding over a pipe .|DET NOUN AUX VERB ADP DET NOUN PUNCT|DT NN VBZ VBG IN DT NN .
+2558| A little boy in orange kicking a soccer ball .|DET ADJ NOUN ADP PROPN VERB DET NOUN NOUN PUNCT|DT JJ NN IN NNP VBG DT NN NN .
+2559| A mature woman in sunglasses and a jean jacket .|DET ADJ NOUN ADP NOUN CCONJ DET NOUN NOUN PUNCT|DT JJ NN IN NNS CC DT NN NN .
+2560| People constructing a house 's bamboo frame .|NOUN VERB DET NOUN PART NOUN NOUN PUNCT|NNS VBG DT NN POS NN NN .
+2561| An elderly man sunbathes on a beach with many people around .|DET ADJ NOUN VERB ADP DET NOUN ADP ADJ NOUN ADV PUNCT|DT JJ NN VBZ IN DT NN IN JJ NNS RB .
+2562| A woman in a white shirt is buying pre-cut fruit from a man in a market .|DET NOUN ADP DET ADJ NOUN AUX VERB NOUN VERB NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT NN IN DT JJ NN VBZ VBG NN VB NN IN DT NN IN DT NN .
+2563| A man inspecting things with a magnifying glass .|DET NOUN VERB NOUN ADP DET ADJ NOUN PUNCT|DT NN VBG NNS IN DT JJ NN .
+2564| A younger man and an older man are shaking hands on a tennis court .|DET ADJ NOUN CCONJ DET ADJ NOUN AUX VERB NOUN ADP DET NOUN NOUN PUNCT|DT JJR NN CC DT JJR NN VBP VBG NNS IN DT NN NN .
+2565| Water polo swimmers competing for a loose ball .|NOUN NOUN NOUN VERB ADP DET ADJ NOUN PUNCT|NN NN NNS VBG IN DT JJ NN .
+2566| A toddler in a diaper is playing in a sandbox near a shovel and other sand toys .|DET NOUN ADP DET NOUN AUX VERB ADP DET NOUN ADP DET NOUN CCONJ ADJ NOUN NOUN PUNCT|DT NN IN DT NN VBZ VBG IN DT NN IN DT NN CC JJ NN NNS .
+2567| A worker actively engaged in welding two pieces of railing together .|DET NOUN ADV VERB ADP VERB NUM NOUN ADP VERB ADV PUNCT|DT NN RB VBD IN VBG CD NNS IN VBG RB .
+2568| A group of children , dressed in orange outfits , are dancing with fans .|DET NOUN ADP NOUN PUNCT VERB ADP ADJ NOUN PUNCT AUX VERB ADP NOUN PUNCT|DT NN IN NNS , VBN IN JJ NNS , VBP VBG IN NNS .
+2569| A group of climbers in silhouette stare towards the sun over the mountaintops .|DET NOUN ADP NOUN ADP NOUN NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT NN IN NNS IN NN NN IN DT NN IN DT NNS .
+2570| A band is performing a song in a club .|DET NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG DT NN IN DT NN .
+2571| A man has a chainsaw and is carving a block of ice .|DET NOUN VERB DET NOUN CCONJ AUX VERB DET NOUN ADP NOUN PUNCT|DT NN VBZ DT NN CC VBZ VBG DT NN IN NN .
+2572| A woman in all black going into a subway during nighttime .|DET NOUN ADP DET NOUN VERB ADP DET NOUN ADP NOUN PUNCT|DT NN IN DT NN VBG IN DT NN IN NN .
+2573| A horse and jockey dash across a river with a bridge full of observers in the background .|DET NOUN CCONJ NOUN NOUN ADP DET NOUN ADP DET NOUN ADJ ADP NOUN ADP DET NOUN PUNCT|DT NN CC NN NN IN DT NN IN DT NN JJ IN NNS IN DT NN .
+2574| Some people in an outdoor market .|DET NOUN ADP DET ADJ NOUN PUNCT|DT NNS IN DT JJ NN .
+2575| a group of young and older people gather around holding a peace knits quilt .|DET NOUN ADP ADJ CCONJ ADJ NOUN VERB ADP VERB DET NOUN NOUN ADV PUNCT|DT NN IN JJ CC JJR NNS VBP IN VBG DT NN NNS RB .
+2576| A man with a cigarette in his mouth is playing pool .|DET NOUN ADP DET NOUN ADP PRON NOUN AUX VERB NOUN PUNCT|DT NN IN DT NN IN PRP$ NN VBZ VBG NN .
+2577| A soccer player in a green uniform is running .|DET NOUN NOUN ADP DET ADJ NOUN AUX VERB PUNCT|DT NN NN IN DT JJ NN VBZ VBG .
+2578| A man in a black outfit juggles three koosh balls .|DET NOUN ADP DET ADJ NOUN NOUN NUM PROPN NOUN PUNCT|DT NN IN DT JJ NN NNS CD NNP NNS .
+2579| A clown , with a horn , stands in the crosswalk as people walk behind him .|DET NOUN PUNCT ADP DET NOUN PUNCT VERB ADP DET NOUN SCONJ NOUN VERB ADP PRON PUNCT|DT NN , IN DT NN , VBZ IN DT NN IN NNS VBP IN PRP .
+2580| A man sits on a rock by the water .|DET NOUN VERB ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBZ IN DT NN IN DT NN .
+2581| A kid in a blue shirt playing on a playground .|DET NOUN ADP DET ADJ NOUN VERB ADP DET NOUN PUNCT|DT NN IN DT JJ NN VBG IN DT NN .
+2582| Girl posing for a picture in a wheat field .|NOUN VERB ADP DET NOUN ADP DET NOUN NOUN PUNCT|NN VBG IN DT NN IN DT NN NN .
+2583| A dark-haired woman biting fingernail in the middle of a crowded sidewalk .|DET ADJ ADJ NOUN VERB NOUN ADP DET NOUN ADP DET ADJ NOUN PUNCT|DT JJ JJ NN VBG NN IN DT NN IN DT JJ NN .
+2584| Two people in a garden wearing hats and protective gloves .|NUM NOUN ADP DET NOUN VERB NOUN CCONJ ADJ NOUN PUNCT|CD NNS IN DT NN VBG NNS CC JJ NNS .
+2585| A man and a woman wearing red embracing .|DET NOUN CCONJ DET NOUN VERB ADJ NOUN PUNCT|DT NN CC DT NN VBG JJ NN .
+2586| A man in yellow is about to take a puff of his cigar as his wife watches .|DET NOUN ADP NOUN AUX ADJ PART VERB DET NOUN ADP PRON NOUN SCONJ PRON NOUN VERB PUNCT|DT NN IN NN VBZ JJ TO VB DT NN IN PRP$ NN IN PRP$ NN VBZ .
+2587| A group of men on a boat that is tipped wearing helmets .|DET NOUN ADP NOUN ADP DET NOUN PRON AUX VERB VERB NOUN PUNCT|DT NN IN NNS IN DT NN WDT VBZ VBN VBG NNS .
+2588| Two women are walking near a bicycle through the city .|NUM NOUN AUX VERB ADP DET NOUN ADP DET NOUN PUNCT|CD NNS VBP VBG IN DT NN IN DT NN .
+2589| A climber scales a steep rock face .|DET NOUN VERB DET ADJ NOUN NOUN PUNCT|DT NN VBZ DT JJ NN NN .
+2590| A child pushes its face up towards a window of a playground .|DET NOUN VERB PRON NOUN ADP ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBZ PRP$ NN RP IN DT NN IN DT NN .
+2591| A young girl performs a one handed cartwheel near a small garden .|DET ADJ NOUN VERB DET NUM VERB NOUN ADP DET ADJ NOUN PUNCT|DT JJ NN VBZ DT CD VBD NN IN DT JJ NN .
+2592| The skateboarder is taking a jump .|DET NOUN AUX VERB DET NOUN PUNCT|DT NN VBZ VBG DT NN .
+2593| A street vendor wearing white pants and black t-shirt is standing near his cart with cold beverages .|DET NOUN NOUN VERB ADJ NOUN CCONJ ADJ NOUN NOUN AUX VERB ADP PRON NOUN ADP ADJ NOUN PUNCT|DT NN NN VBG JJ NNS CC JJ NN NN VBZ VBG IN PRP$ NN IN JJ NNS .
+2594| A dog running with a toy in his mouth .|DET NOUN VERB ADP DET NOUN ADP PRON NOUN PUNCT|DT NN VBG IN DT NN IN PRP$ NN .
+2595| There is a female rollerskater standing with her hands on her hips .|PRON VERB DET ADJ NOUN VERB ADP PRON NOUN ADP PRON NOUN PUNCT|EX VBZ DT JJ NN VBG IN PRP$ NNS IN PRP$ NNS .
+2596| Two children in a yard wearing sunglasses , with a play structure behind them .|NUM NOUN ADP DET NOUN VERB NOUN PUNCT ADP DET NOUN NOUN ADP PRON PUNCT|CD NNS IN DT NN VBG NNS , IN DT NN NN IN PRP .
+2597| Three young ballerinas performing on a stage .|NUM ADJ NOUN VERB ADP DET NOUN PUNCT|CD JJ NNS VBG IN DT NN .
+2598| A girl is diving into an indoor pool .|DET NOUN AUX VERB ADP DET ADJ NOUN PUNCT|DT NN VBZ VBG IN DT JJ NN .
+2599| Three dogs with tongues out running on the grass with a tennis ball .|NUM NOUN ADP NOUN ADP VERB ADP DET NOUN ADP DET NOUN NOUN PUNCT|CD NNS IN NNS RP VBG IN DT NN IN DT NN NN .
+2600| A young kid is jumping in a puddle .|DET ADJ NOUN AUX VERB ADP DET NOUN PUNCT|DT JJ NN VBZ VBG IN DT NN .
+2601| A large crane with workers beside it at night .|DET ADJ NOUN ADP NOUN ADP PRON ADP NOUN PUNCT|DT JJ NN IN NNS IN PRP IN NN .
+2602| An elderly woman cutting fruit at a market .|DET ADJ NOUN VERB NOUN ADP DET NOUN PUNCT|DT JJ NN VBG NN IN DT NN .
+2603| An elderly man is drinking orange juice at a cafe .|DET ADJ NOUN AUX VERB NOUN NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ VBG NN NN IN DT NN .
+2604| A child jumps off of pipes at a sandy beach .|DET NOUN VERB ADP ADP NOUN ADP DET ADJ NOUN PUNCT|DT NN VBZ IN IN NNS IN DT JJ NN .
+2605| A woman is sweeping up a broken pot while looking out her window , pondering something .|DET NOUN AUX VERB ADP DET VERB NOUN SCONJ VERB ADP PRON NOUN PUNCT VERB PRON PUNCT|DT NN VBZ VBG RP DT VBN NN IN VBG IN PRP$ NN , VBG NN .
+2606| Spectators are watching a man who is dressed in a red racing outfit holding a green bicycle .|NOUN AUX VERB DET NOUN PRON AUX VERB ADP DET ADJ NOUN NOUN VERB DET ADJ NOUN PUNCT|NNS VBP VBG DT NN WP VBZ VBN IN DT JJ NN NN VBG DT JJ NN .
+2607| A middle-aged lady with glasses and a multi-color striped shirt is holding a newborn baby .|DET ADJ ADJ NOUN ADP NOUN CCONJ DET ADJ NOUN ADJ NOUN AUX VERB DET ADJ NOUN PUNCT|DT JJ JJ NN IN NNS CC DT JJ NN JJ NN VBZ VBG DT JJ NN .
+2608| A man on ski has jumped in a tree while another man is watching|DET NOUN ADP NOUN AUX VERB ADP DET NOUN SCONJ DET NOUN AUX VERB|DT NN IN NN VBZ VBN IN DT NN IN DT NN VBZ VBG
+2609| Many people in a street protesting the use of coal in power plants .|ADJ NOUN ADP DET NOUN VERB DET NOUN ADP NOUN ADP NOUN NOUN PUNCT|JJ NNS IN DT NN VBG DT NN IN NN IN NN NNS .
+2610| A little girl in a sweater is swung around by an unseen hand .|DET ADJ NOUN ADP DET NOUN AUX VERB ADP ADP DET ADJ NOUN PUNCT|DT JJ NN IN DT NN VBZ VBN RP IN DT JJ NN .
+2611| A woman walking over a bridge with tall grass on either side of her .|DET NOUN VERB ADP DET NOUN ADP ADJ NOUN ADP DET NOUN ADP PRON PUNCT|DT NN VBG IN DT NN IN JJ NN IN DT NN IN PRP .
+2612| A man has fallen asleep with his mouth open .|DET NOUN AUX VERB ADJ ADP PRON NOUN ADJ PUNCT|DT NN VBZ VBN JJ IN PRP$ NN JJ .
+2613| The small brown dog runs in the snow .|DET ADJ ADJ NOUN VERB ADP DET NOUN PUNCT|DT JJ JJ NN VBZ IN DT NN .
+2614| Black dog with collar jumping up with a stick in his mouth|ADJ NOUN ADP NOUN VERB ADP ADP DET NOUN ADP PRON NOUN|JJ NN IN NN VBG RP IN DT NN IN PRP$ NN
+2615| Two men wrestle in the middle of towering buildings .|NUM NOUN VERB ADP DET NOUN ADP VERB NOUN PUNCT|CD NNS VBP IN DT NN IN VBG NNS .
+2616| An older fireman with an orange work suit holding a brown water hose .|DET ADJ NOUN ADP DET NOUN NOUN NOUN VERB DET ADJ NOUN NOUN PUNCT|DT JJR NN IN DT NN NN NN VBG DT JJ NN NN .
+2617| A woman posing near a cliff|DET NOUN VERB ADP DET NOUN|DT NN VBG IN DT NN
+2618| Sports fans are tailgating .|NOUN NOUN AUX VERB PUNCT|NNS NNS VBP VBG .
+2619| A group of youths sit on a staircase .|DET NOUN ADP NOUN VERB ADP DET NOUN PUNCT|DT NN IN NNS VBP IN DT NN .
+2620| A group of young females wearing blue tank tops and white skirts all doing a synchronized cheer .|DET NOUN ADP ADJ NOUN VERB ADJ NOUN NOUN CCONJ ADJ NOUN PRON VERB DET VERB NOUN PUNCT|DT NN IN JJ NNS VBG JJ NN NNS CC JJ NNS DT VBG DT VBN NN .
+2621| A woman teaching a young boy how to use a pottery wheel in an art class .|DET NOUN VERB DET ADJ NOUN SCONJ PART VERB DET NOUN NOUN ADP DET NOUN NOUN PUNCT|DT NN VBG DT JJ NN WRB TO VB DT NN NN IN DT NN NN .
+2622| Man on scooter attracts attention from some of those in large crowd .|NOUN ADP NOUN VERB NOUN ADP PRON ADP PRON ADP ADJ NOUN PUNCT|NN IN NN VBZ NN IN DT IN DT IN JJ NN .
+2623| Indian women learning from a man how to make fabric .|ADJ NOUN VERB ADP DET NOUN SCONJ PART VERB NOUN PUNCT|JJ NNS VBG IN DT NN WRB TO VB NN .
+2624| A working man taking a drink of water .|DET VERB NOUN VERB DET NOUN ADP NOUN PUNCT|DT VBG NN VBG DT NN IN NN .
+2625| a motorcycle is parked next to the road with four people surrounding it .|DET NOUN AUX VERB ADV ADP DET NOUN ADP NUM NOUN VERB PRON PUNCT|DT NN VBZ VBN RB IN DT NN IN CD NNS VBG PRP .
+2626| A dog wearing a blue leash walks into a body of water .|DET NOUN VERB DET ADJ NOUN NOUN ADP DET NOUN ADP NOUN PUNCT|DT NN VBG DT JJ NN NNS IN DT NN IN NN .
+2627| Men using fishing boats and nets by the beach .|NOUN VERB NOUN NOUN CCONJ NOUN ADP DET NOUN PUNCT|NNS VBG NN NNS CC NNS IN DT NN .
+2628| A guy is practicing his kicks on a punching bag in the gym .|DET NOUN AUX VERB PRON NOUN ADP DET VERB NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG PRP$ NNS IN DT VBG NN IN DT NN .
+2629| Two men working on a thatched roof .|NUM NOUN VERB ADP DET ADJ NOUN PUNCT|CD NNS VBG IN DT JJ NN .
+2630| A lone man walking along side a blue wall .|DET ADJ NOUN VERB ADP NOUN DET ADJ NOUN PUNCT|DT JJ NN VBG IN NN DT JJ NN .
+2631| A brunette woman wearing a tan jacket reaching into her purse .|DET NOUN NOUN VERB DET NOUN NOUN VERB ADP PRON NOUN PUNCT|DT NN NN VBG DT NN NN VBG IN PRP$ NN .
+2632| A man in a blue dress shirt and jeans sits on concrete steps outside of a bank .|DET NOUN ADP DET ADJ NOUN NOUN CCONJ NOUN VERB ADP ADJ NOUN ADP ADP DET NOUN PUNCT|DT NN IN DT JJ NN NN CC NNS VBZ IN JJ NNS IN IN DT NN .
+2633| a couple kissing at the top of the stairs on a sidewalk .|DET NOUN VERB ADP DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBG IN DT NN IN DT NNS IN DT NN .
+2634| A boy baseball player in a green and yellow jersey leaps for the ball .|DET NOUN NOUN NOUN ADP DET ADJ CCONJ ADJ NOUN NOUN ADP DET NOUN PUNCT|DT NN NN NN IN DT JJ CC JJ NN NNS IN DT NN .
+2635| A young boy wearing a blue shirt who is climbing the steep stairs .|DET ADJ NOUN VERB DET ADJ NOUN PRON AUX VERB DET ADJ NOUN PUNCT|DT JJ NN VBG DT JJ NN WP VBZ VBG DT JJ NNS .
+2636| Three children are tossing a toy in the air in the middle of a field .|NUM NOUN AUX VERB DET NOUN ADP DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|CD NNS VBP VBG DT NN IN DT NN IN DT NN IN DT NN .
+2637| A white and brown dog is leaping through the air .|DET ADJ CCONJ ADJ NOUN AUX VERB ADP DET NOUN PUNCT|DT JJ CC JJ NN VBZ VBG IN DT NN .
+2638| Two individuals are standing next to some supplies in a mountainous area .|NUM NOUN AUX VERB ADV ADP DET NOUN ADP DET ADJ NOUN PUNCT|CD NNS VBP VBG RB IN DT NNS IN DT JJ NN .
+2639| A child petting a dog .|DET NOUN VERB DET NOUN PUNCT|DT NN VBG DT NN .
+2640| A girl stands on a street with a homemade ' free car wash ' sign .|DET NOUN VERB ADP DET NOUN ADP DET NOUN PUNCT ADJ NOUN NOUN PUNCT NOUN PUNCT|DT NN VBZ IN DT NN IN DT NN `` JJ NN NN '' NN .
+2641| Two women sunbathe by the water .|NUM NOUN VERB ADP DET NOUN PUNCT|CD NNS VBP IN DT NN .
+2642| A man in a blue shirt is standing in a doorway .|DET NOUN ADP DET ADJ NOUN AUX VERB ADP DET NOUN PUNCT|DT NN IN DT JJ NN VBZ VBG IN DT NN .
+2643| A person in a motocross uniform , and wearing a helmet , rides a red motorcycle .|DET NOUN ADP DET NOUN NOUN PUNCT CCONJ VERB DET NOUN PUNCT VERB DET ADJ NOUN PUNCT|DT NN IN DT NN NN , CC VBG DT NN , VBZ DT JJ NN .
+2644| Two men meet by a fountain engulfed in lights , they are wearing Winter coats .|NUM NOUN VERB ADP DET NOUN VERB ADP NOUN PUNCT PRON AUX VERB NOUN NOUN PUNCT|CD NNS VBP IN DT NN VBN IN NNS , PRP VBP VBG NN NNS .
+2645| A group of men stand around a table looking at different kinds of CDs .|DET NOUN ADP NOUN VERB ADP DET NOUN VERB ADP ADJ NOUN ADP NOUN PUNCT|DT NN IN NNS VBP IN DT NN VBG IN JJ NNS IN NNS .
+2646| A young girl jumps off the hands of a man in a pool near the ocean .|DET ADJ NOUN VERB ADP DET NOUN ADP DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ RP DT NNS IN DT NN IN DT NN IN DT NN .
+2647| A woman and two men looking in different directions .|DET NOUN CCONJ NUM NOUN VERB ADP ADJ NOUN PUNCT|DT NN CC CD NNS VBG IN JJ NNS .
+2648| A mother and her three children walking down a city street .|DET NOUN CCONJ PRON NUM NOUN VERB ADP DET NOUN NOUN PUNCT|DT NN CC PRP$ CD NNS VBG IN DT NN NN .
+2649| a man in a red t-shirt is sitting in a car looking at a map .|DET NOUN ADP DET PROPN PROPN NOUN AUX VERB ADP DET NOUN VERB ADP DET NOUN PUNCT|DT NN IN DT NNP NNP NN VBZ VBG IN DT NN VBG IN DT NN .
+2650| People stand in the parking lot in front of a Central Market .|NOUN VERB ADP DET NOUN NOUN ADP NOUN ADP DET PROPN PROPN PUNCT|NNS VBP IN DT NN NN IN NN IN DT NNP NNP .
+2651| Hands are raised by a crowd at the New York Marriott Marquis .|NOUN AUX VERB ADP DET NOUN ADP DET PROPN PROPN PROPN PROPN PUNCT|NNS VBP VBN IN DT NN IN DT NNP NNP NNP NNP .
+2652| A man is standing on top of a mountain , holding an assault rifle .|DET NOUN AUX VERB ADP NOUN ADP DET NOUN PUNCT VERB DET NOUN NOUN PUNCT|DT NN VBZ VBG IN NN IN DT NN , VBG DT NN NN .
+2653| A woman in a red dress and a bonnet , looks out from a window .|DET NOUN ADP DET ADJ NOUN CCONJ DET NOUN PUNCT VERB ADP ADP DET NOUN PUNCT|DT NN IN DT JJ NN CC DT NN , VBZ RP IN DT NN .
+2654| Two men are grilling and talking to another man .|NUM NOUN AUX VERB CCONJ VERB ADP DET NOUN PUNCT|CD NNS VBP VBG CC VBG IN DT NN .
+2655| A man in a hat is playing an acoustic guitar with a band at an outdoor venue .|DET NOUN ADP DET NOUN AUX VERB DET ADJ NOUN ADP DET NOUN ADP DET ADJ NOUN PUNCT|DT NN IN DT NN VBZ VBG DT JJ NN IN DT NN IN DT JJ NN .
+2656| A group of hockey players and coaches having conversations .|DET NOUN ADP NOUN NOUN CCONJ NOUN VERB NOUN PUNCT|DT NN IN NN NNS CC NNS VBG NNS .
+2657| A woman is giving a kiss to a young girl on the lips .|DET NOUN AUX VERB DET NOUN ADP DET ADJ NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG DT NN IN DT JJ NN IN DT NNS .
+2658| Two puppies play with a red chew toy in a field .|NUM NOUN VERB ADP DET ADJ NOUN NOUN ADP DET NOUN PUNCT|CD NNS VBP IN DT JJ NN NN IN DT NN .
+2659| A big dog catches a ball on his nose|DET ADJ NOUN VERB DET NOUN ADP PRON NOUN|DT JJ NN VBZ DT NN IN PRP$ NN
+2660| A man and a little boy in blue life jackets are rowing a yellow canoe .|DET NOUN CCONJ DET ADJ NOUN ADP ADJ NOUN NOUN AUX VERB DET ADJ NOUN PUNCT|DT NN CC DT JJ NN IN JJ NN NNS VBP VBG DT JJ NN .
+2661| A man making the cravat to his best friend .|DET NOUN VERB DET NOUN ADP PRON ADJ NOUN PUNCT|DT NN VBG DT NNS IN PRP$ JJS NN .
+2662| a young man is skateboarding down the railing of some stairs .|DET ADJ NOUN AUX VERB ADP DET NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ VBG IN DT NN IN DT NNS .
+2663| A musical event in the park .|DET ADJ NOUN ADP DET NOUN PUNCT|DT JJ NN IN DT NN .
+2664| Two men meet in a colorful alley .|NUM NOUN VERB ADP DET ADJ NOUN PUNCT|CD NNS VBP IN DT JJ NN .
+2665| Beach goers look at a heart left in the sky by a sky writer .|NOUN NOUN VERB ADP DET NOUN VERB ADP DET NOUN ADP DET NOUN NOUN PUNCT|NN NNS VB IN DT NN VBN IN DT NN IN DT NN NN .
+2666| An Asian boy with a white t-shirt that says frog , reading a book .|DET ADJ NOUN ADP DET PROPN PROPN NOUN PRON VERB NOUN PUNCT VERB DET NOUN PUNCT|DT JJ NN IN DT NNP NNP NN WDT VBZ NN , VBG DT NN .
+2667| A black and white dog bounds through tall wheat grass .|DET ADJ CCONJ ADJ NOUN VERB ADP ADJ NOUN NOUN PUNCT|DT JJ CC JJ NN VBZ IN JJ NN NN .
+2668| Many people and cars sit under a large leafless tree with water and landscape in the background .|ADJ NOUN CCONJ NOUN VERB ADP DET ADJ NOUN NOUN ADP NOUN CCONJ NOUN ADP DET NOUN PUNCT|JJ NNS CC NNS VBP IN DT JJ NN NN IN NN CC NN IN DT NN .
+2669| A black and white dog chasing a tan and white dog across a path .|DET ADJ CCONJ ADJ PROPN VERB DET PROPN CCONJ ADJ NOUN ADP DET NOUN PUNCT|DT JJ CC JJ NNP VBG DT NNP CC JJ NN IN DT NN .
+2670| A man asleep on the subway .|DET NOUN ADJ ADP DET NOUN PUNCT|DT NN JJ IN DT NN .
+2671| An elderly woman sells goods outdoors in an exotic setting .|DET ADJ NOUN VERB NOUN ADV ADP DET ADJ NOUN PUNCT|DT JJ NN VBZ NNS RB IN DT JJ NN .
+2672| An older man is skydiving .|DET ADJ NOUN AUX VERB PUNCT|DT JJR NN VBZ VBG .
+2673| a young woman about to take a drink from her beverage while sitting in front of flowers .|DET ADJ NOUN ADP PART VERB DET NOUN ADP PRON NOUN SCONJ VERB ADP NOUN ADP NOUN PUNCT|DT JJ NN IN TO VB DT NN IN PRP$ NN IN VBG IN NN IN NNS .
+2674| Two people sit on a bench overlooking a vast amount of windows .|NUM NOUN VERB ADP DET NOUN VERB DET ADJ NOUN ADP NOUN PUNCT|CD NNS VBP IN DT NN VBG DT JJ NN IN NNS .
+2675| Two men participate in a match while wearing karate garb .|NUM NOUN VERB ADP DET NOUN SCONJ VERB NOUN PROPN PUNCT|CD NNS VBP IN DT NN IN VBG NN NNP .
+2676| Two females fight in a tournament to win the round .|NUM NOUN VERB ADP DET NOUN PART VERB DET NOUN PUNCT|CD NNS VBP IN DT NN TO VB DT NN .
+2677| Three men in hard hats and highlighter-hued clothing are sitting in a boat smiling .|NUM NOUN ADP ADJ NOUN CCONJ NOUN VERB NOUN AUX VERB ADP DET NOUN VERB PUNCT|CD NNS IN JJ NNS CC NN VBN NN VBP VBG IN DT NN VBG .
+2678| People hurrying to get to work in a busy city .|NOUN VERB PART VERB PART VERB ADP DET ADJ NOUN PUNCT|NNS VBG TO VB TO VB IN DT JJ NN .
+2679| A man wearing goggles in a pool swims through his lane .|DET NOUN VERB NOUN ADP DET NOUN VERB ADP PRON NOUN PUNCT|DT NN VBG NNS IN DT NN VBZ IN PRP$ NN .
+2680| A firefighter looks at another firefighter in the blurry distance .|DET ADJ NOUN ADP DET NOUN ADP DET ADJ NOUN PUNCT|DT JJ NNS IN DT NN IN DT JJ NN .
+2681| A boy bites hard into a treat while he sits outside .|DET NOUN VERB ADV ADP DET NOUN SCONJ PRON VERB ADV PUNCT|DT NN VBZ RB IN DT NN IN PRP VBZ RB .
+2682| A black dog jumps in the snow .|DET ADJ NOUN VERB ADP DET NOUN PUNCT|DT JJ NN VBZ IN DT NN .
+2683| A woman is talking on a phone while a little girl is rollerskating behind her .|DET NOUN AUX VERB ADP DET NOUN SCONJ DET ADJ NOUN AUX VERB ADP PRON PUNCT|DT NN VBZ VBG IN DT NN IN DT JJ NN VBZ VBG IN PRP .
+2684| A woman in a floppy sunhat lounges on a large black tube while in the water .|DET NOUN ADP DET ADJ ADJ NOUN ADP DET ADJ ADJ NOUN SCONJ ADP DET NOUN PUNCT|DT NN IN DT JJ JJ NNS IN DT JJ JJ NN IN IN DT NN .
+2685| Two women looking at three donkeys with saddles .|NUM NOUN VERB ADP NUM NOUN ADP NOUN PUNCT|CD NNS VBG IN CD NNS IN NNS .
+2686| A woman wearing a yellow outfit is holding a racket .|DET NOUN VERB DET ADJ NOUN AUX VERB DET NOUN PUNCT|DT NN VBG DT JJ NN VBZ VBG DT NN .
+2687| Biker does a trick in midair .|PROPN VERB DET NOUN ADP NOUN PUNCT|NNP VBZ DT NN IN NN .
+2688| A soldier is talking in front of several people .|DET NOUN AUX VERB ADP NOUN ADP ADJ NOUN PUNCT|DT NN VBZ VBG IN NN IN JJ NNS .
+2689| Young boys in yellow and red uniforms are playing soccer .|ADJ NOUN ADP ADJ CCONJ ADJ NOUN AUX VERB NOUN PUNCT|JJ NNS IN JJ CC JJ NNS VBP VBG NN .
+2690| A boy wearing a red t-shirt is running through woodland .|DET NOUN VERB DET PROPN PROPN NOUN AUX VERB ADP NOUN PUNCT|DT NN VBG DT NNP NNP NN VBZ VBG IN NN .
+2691| a young woman posing in front of a beautiful beach scene .|DET ADJ NOUN VERB ADP NOUN ADP DET ADJ NOUN NOUN PUNCT|DT JJ NN VBG IN NN IN DT JJ NN NN .
+2692| Television cameras set up to record an even at a theater .|NOUN NOUN VERB ADP PART VERB PRON ADV ADP DET NOUN PUNCT|NN NNS VBD RP TO VB DT RB IN DT NN .
+2693| a kid with curly hair playing axe throw|DET NOUN ADP ADJ NOUN VERB NOUN NOUN|DT NN IN JJ NN VBG NN NN
+2694| A man and two children standing on a deck and looking out .|DET NOUN CCONJ NUM NOUN VERB ADP DET NOUN CCONJ VERB ADP PUNCT|DT NN CC CD NNS VBG IN DT NN CC VBG RP .
+2695| city in japan with crowded streets of people|NOUN ADP PROPN ADP ADJ NOUN ADP NOUN|NN IN NNP IN JJ NNS IN NNS
+2696| Dancers wearing American Indian costumes are dancing and giving a performance .|NOUN VERB ADJ ADJ NOUN AUX VERB CCONJ VERB DET NOUN PUNCT|NNS VBG JJ JJ NNS VBP VBG CC VBG DT NN .
+2697| Boy wearing shorts and striped shirt stands on a busy sidewalk .|INTJ VERB NOUN CCONJ ADJ NOUN VERB ADP DET ADJ NOUN PUNCT|UH VBG NNS CC JJ NN VBZ IN DT JJ NN .
+2698| A man is on his phone while sitting on a chair along a rocky beach .|DET NOUN AUX ADP PRON NOUN SCONJ VERB ADP DET NOUN ADP DET ADJ NOUN PUNCT|DT NN VBZ IN PRP$ NN IN VBG IN DT NN IN DT JJ NN .
+2699| A brown dog chases the water from a sprinkler on a lawn .|DET ADJ NOUN VERB DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ DT NN IN DT NN IN DT NN .
+2700| Two large dogs running while a third watches .|NUM ADJ NOUN VERB SCONJ DET ADJ NOUN PUNCT|CD JJ NNS VBG IN DT JJ NNS .
+2701| A girl standing by a decorated structural beam poses for a picture .|DET NOUN VERB ADP DET VERB ADJ NOUN NOUN ADP DET NOUN PUNCT|DT NN VBG IN DT VBN JJ NN NNS IN DT NN .
+2702| A woman wearing a skimpy bathing suit is walking with a towel in a parking lot .|DET NOUN VERB DET ADJ NOUN NOUN AUX VERB ADP DET NOUN ADP DET NOUN NOUN PUNCT|DT NN VBG DT JJ NN NN VBZ VBG IN DT NN IN DT NN NN .
+2703| profile view of a man with a brown pipe in his mouth .|ADJ NOUN ADP DET NOUN ADP DET ADJ NOUN ADP PRON NOUN PUNCT|JJ NN IN DT NN IN DT JJ NN IN PRP$ NN .
+2704| a man wearing a cowboy hat holding a protest sign .|DET NOUN VERB DET NOUN NOUN VERB DET NOUN NOUN PUNCT|DT NN VBG DT NN NN VBG DT NN NN .
+2705| A female student concentrates on her schoolwork .|DET ADJ NOUN NOUN ADP PRON NOUN PUNCT|DT JJ NN NNS IN PRP$ NN .
+2706| A brown dog is swimming in a creek .|DET ADJ NOUN AUX VERB ADP DET NOUN PUNCT|DT JJ NN VBZ VBG IN DT NN .
+2707| Two men stand by a truck and pieces of tree trunks .|NUM NOUN VERB ADP DET NOUN CCONJ NOUN ADP NOUN NOUN PUNCT|CD NNS VBP IN DT NN CC NNS IN NN NNS .
+2708| A referee is intervening in a hockey game .|DET NOUN AUX VERB ADP DET NOUN NOUN PUNCT|DT NN VBZ VBG IN DT NN NN .
+2709| Young boy in a blue and gray sweater , holding a wooden post .|ADJ NOUN ADP DET ADJ CCONJ ADJ NOUN PUNCT VERB DET ADJ NOUN PUNCT|JJ NN IN DT JJ CC JJ NN , VBG DT JJ NN .
+2710| Two men eeyeing three women who are looking at a product .|NUM NOUN VERB NUM NOUN PRON AUX VERB ADP DET NOUN PUNCT|CD NNS VBG CD NNS WP VBP VBG IN DT NN .
+2711| Six bicyclists race towards the left , the two in the back are crashing into each other .|NUM NOUN NOUN ADP DET NOUN PUNCT DET NUM ADP DET NOUN AUX VERB ADP DET ADJ PUNCT|CD NNS NN IN DT NN , DT CD IN DT NN VBP VBG IN DT JJ .
+2712| Two boxers are ready for their fight as the crowd watches with anticipation .|NUM NOUN AUX ADJ ADP PRON NOUN SCONJ DET NOUN VERB ADP NOUN PUNCT|CD NNS VBP JJ IN PRP$ NN IN DT NN VBZ IN NN .
+2713| a man talking as he holds a red cloth .|DET NOUN VERB SCONJ PRON VERB DET ADJ NOUN PUNCT|DT NN VBG IN PRP VBZ DT JJ NN .
+2714| An asian man in glasses and a blue dress shirt is giving a presentation using a projector .|DET ADJ NOUN ADP NOUN CCONJ DET ADJ NOUN NOUN AUX VERB DET NOUN VERB DET NOUN PUNCT|DT JJ NN IN NNS CC DT JJ NN NN VBZ VBG DT NN VBG DT NN .
+2715| Two Asian girls are performing in costumes .|NUM ADJ NOUN AUX VERB ADP NOUN PUNCT|CD JJ NNS VBP VBG IN NNS .
+2716| A tan dog runs along a beach near wood stumps .|DET NOUN NOUN VERB ADP DET NOUN ADP NOUN NOUN PUNCT|DT NN NN VBZ IN DT NN IN NN NNS .
+2717| a little girl pushes a little boy on the swing .|DET ADJ NOUN VERB DET ADJ NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ DT JJ NN IN DT NN .
+2718| One very tired fisherman .|NUM ADV ADJ NOUN PUNCT|CD RB JJ NN .
+2719| Two girls sit at a table with a green marker standing on its end .|NUM NOUN VERB ADP DET NOUN ADP DET ADJ NOUN VERB ADP PRON NOUN PUNCT|CD NNS VBP IN DT NN IN DT JJ NN VBG IN PRP$ NN .
+2720| Two black dogs run in the sand by a pier .|NUM ADJ NOUN VERB ADP DET NOUN ADP DET NOUN PUNCT|CD JJ NNS VBP IN DT NN IN DT NN .
+2721| A man stands beneath a big bell between two pillars , another person sits to the side .|DET NOUN VERB ADP DET ADJ NOUN ADP NUM NOUN PUNCT DET NOUN VERB ADP DET NOUN PUNCT|DT NN VBZ IN DT JJ NN IN CD NNS , DT NN VBZ IN DT NN .
+2722| A man in a colorful jacket walks down the street surrounded by women in winter clothing .|DET NOUN ADP DET ADJ NOUN VERB ADP DET NOUN VERB ADP NOUN ADP NOUN NOUN PUNCT|DT NN IN DT JJ NN VBZ RP DT NN VBN IN NNS IN NN NN .
+2723| A young woman wearing glasses is eating a piece of chicken .|DET ADJ NOUN VERB NOUN AUX VERB DET NOUN ADP NOUN PUNCT|DT JJ NN VBG NNS VBZ VBG DT NN IN NN .
+2724| A couple with a small child is standing on a busy street .|DET NOUN ADP DET ADJ NOUN AUX VERB ADP DET ADJ NOUN PUNCT|DT NN IN DT JJ NN VBZ VBG IN DT JJ NN .
+2725| Woman holding a drink with a white bag next to her is sitting on a green sculpture .|NOUN VERB DET NOUN ADP DET ADJ NOUN ADV ADP PRON AUX VERB ADP DET ADJ NOUN PUNCT|NN VBG DT NN IN DT JJ NN RB IN PRP VBZ VBG IN DT JJ NN .
+2726| A group of police officers in riot gear .|DET NOUN ADP NOUN NOUN ADP NOUN NOUN PUNCT|DT NN IN NN NNS IN NN NN .
+2727| A little boy in a blue hat and black bathing suit is staring at the ocean .|DET ADJ NOUN ADP DET ADJ NOUN CCONJ ADJ NOUN NOUN AUX VERB ADP DET NOUN PUNCT|DT JJ NN IN DT JJ NN CC JJ NN NN VBZ VBG IN DT NN .
+2728| A family walking their dogs downtown .|DET NOUN VERB PRON NOUN NOUN PUNCT|DT NN VBG PRP$ NNS NN .
+2729| A man and woman stand at a stall in the street during the day .|DET NOUN CCONJ NOUN VERB ADP DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT NN CC NN VBP IN DT NN IN DT NN IN DT NN .
+2730| A crowd goes from tent to tent looking for special items to purchase .|DET NOUN VERB ADP NOUN ADP NOUN VERB ADP ADJ NOUN PART VERB PUNCT|DT NN VBZ IN NN IN NN VBG IN JJ NNS TO VB .
+2731| A man is hitting a golf ball from a sand bunker|DET NOUN AUX VERB DET NOUN NOUN ADP DET NOUN NOUN|DT NN VBZ VBG DT NN NN IN DT NN NN
+2732| a boy is riding a buggy down a woodland path .|DET NOUN AUX VERB DET NOUN ADP DET NOUN NOUN PUNCT|DT NN VBZ VBG DT NN IN DT NN NN .
+2733| A girl wearing a blue shirt is reading music and playing a large string instrument outdoors .|DET NOUN VERB DET ADJ NOUN AUX VERB NOUN CCONJ VERB DET ADJ NOUN NOUN ADV PUNCT|DT NN VBG DT JJ NN VBZ VBG NN CC VBG DT JJ NN NN RB .
+2734| a group of young naked children showering outside|DET NOUN ADP ADJ ADJ NOUN VERB ADV|DT NN IN JJ JJ NNS VBG RB
+2735| A man in blue half jacket with black glasses eating ice cream in a cone .|DET NOUN ADP ADJ NOUN NOUN ADP ADJ NOUN VERB NOUN NOUN ADP DET NOUN PUNCT|DT NN IN JJ NN NN IN JJ NNS VBG NN NN IN DT NN .
+2736| A man in a black t-shirt jogs as others go about their day .|DET NOUN ADP DET ADJ NOUN NOUN VERB SCONJ NOUN VERB ADP PRON NOUN PUNCT|DT NN IN DT JJ NN NN VBZ IN NNS VBP IN PRP$ NN .
+2737| Man wearing hippie killer shirt talking to woman with a return of the living dead shirt .|NOUN VERB NOUN PROPN NOUN VERB ADP NOUN ADP DET NOUN ADP DET VERB ADJ NOUN PUNCT|NN VBG NN NNP NN VBG IN NN IN DT NN IN DT VBG JJ NN .
+2738| People in the kitchen at a party with food and drink .|NOUN ADP DET NOUN ADP DET NOUN ADP NOUN CCONJ NOUN PUNCT|NNS IN DT NN IN DT NN IN NN CC NN .
+2739| a butcher cutting fish to be sold at the market|DET NOUN VERB NOUN PART AUX VERB ADP DET NOUN|DT NN VBG NN TO VB VBN IN DT NN
+2740| A woman in a blue shirt releasing a bowling ball at a bowling lane .|DET NOUN ADP DET ADJ NOUN VERB DET NOUN NOUN ADP DET NOUN NOUN PUNCT|DT NN IN DT JJ NN VBG DT NN NN IN DT NN NN .
+2741| A man , in his garage , throwing knives against the wall .|DET NOUN PUNCT ADP PRON NOUN PUNCT VERB NOUN ADP DET NOUN PUNCT|DT NN , IN PRP$ NN , VBG NNS IN DT NN .
+2742| A man showing his ten fingers .|DET NOUN VERB PRON NUM NOUN PUNCT|DT NN VBG PRP$ CD NNS .
+2743| A woman is serving food outside on a busy street .|DET NOUN AUX VERB NOUN ADV ADP DET ADJ NOUN PUNCT|DT NN VBZ VBG NN RB IN DT JJ NN .
+2744| A man in orange shorts holds a child up on play equipment .|DET NOUN ADP PROPN NOUN VERB DET NOUN ADP ADP NOUN NOUN PUNCT|DT NN IN NNP NNS VBZ DT NN RP IN NN NN .
+2745| Woman with sunglasses on her phone .|NOUN ADP NOUN ADP PRON NOUN PUNCT|NN IN NNS IN PRP$ NN .
+2746| An old man with a white beard is walking down a city street .|DET ADJ NOUN ADP DET ADJ NOUN AUX VERB ADP DET NOUN NOUN PUNCT|DT JJ NN IN DT JJ NN VBZ VBG IN DT NN NN .
+2747| A man , dressed in black , sits in a chair with a brass tuba beside him .|DET NOUN PUNCT VERB ADP ADJ PUNCT VERB ADP DET NOUN ADP DET NOUN NOUN ADP PRON PUNCT|DT NN , VBN IN JJ , VBZ IN DT NN IN DT NN NN IN PRP .
+2748| A man is holding his shirt into a fountain in a park .|DET NOUN AUX VERB PRON NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG PRP$ NN IN DT NN IN DT NN .
+2749| A man in a white sleeveless shirt dunks a basketball on a clear crisp day .|DET NOUN ADP DET ADJ PROPN PROPN VERB DET NOUN ADP DET ADJ ADJ NOUN PUNCT|DT NN IN DT JJ NNP NNP VBZ DT NN IN DT JJ JJ NN .
+2750| A lady with a red shirt and backpack is balancing a blue tub on her head .|DET NOUN ADP DET ADJ NOUN CCONJ NOUN AUX VERB DET ADJ NOUN ADP PRON NOUN PUNCT|DT NN IN DT JJ NN CC NN VBZ VBG DT JJ NN IN PRP$ NN .
+2751| Two young children are walking down a tree lined path .|NUM ADJ NOUN AUX VERB ADP DET NOUN VERB NOUN PUNCT|CD JJ NNS VBP VBG IN DT NN VBN NN .
+2752| Several young musicians play their instruments .|ADJ ADJ NOUN VERB PRON NOUN PUNCT|JJ JJ NNS VBP PRP$ NNS .
+2753| Small child playing on playground equipment .|ADJ NOUN VERB ADP NOUN NOUN PUNCT|JJ NN VBG IN NN NN .
+2754| A baseman is holding out his glove to catch a ball and tag his opponent out .|DET NOUN AUX VERB ADP PRON NOUN PART VERB DET NOUN CCONJ VERB PRON NOUN ADP PUNCT|DT NN VBZ VBG RP PRP$ NN TO VB DT NN CC VB PRP$ NN RP .
+2755| People exit from a grand doorway .|NOUN VERB ADP DET ADJ NOUN PUNCT|NNS VBP IN DT JJ NN .
+2756| A white female blow dries her hair with a hair dryer while a second white female watches .|DET ADJ ADJ NOUN VERB PRON NOUN ADP DET NOUN NOUN SCONJ DET ADJ ADJ ADJ NOUN PUNCT|DT JJ JJ NN VBZ PRP$ NN IN DT NN NN IN DT JJ JJ JJ NNS .
+2757| An old lady is wearing a lampshade as a had while wrapping presents for Christmas .|DET ADJ NOUN AUX VERB DET NOUN ADP DET AUX SCONJ NOUN NOUN ADP PROPN PUNCT|DT JJ NN VBZ VBG DT NN IN DT VBD IN NN NNS IN NNP .
+2758| A man looks up from his loom and makes a strange gesture .|DET NOUN VERB ADP ADP PRON NOUN CCONJ VERB DET ADJ NOUN PUNCT|DT NN VBZ RP IN PRP$ NN CC VBZ DT JJ NN .
+2759| A mountain biker hops over an obstacle .|DET NOUN NOUN VERB ADP DET NOUN PUNCT|DT NN NN VBZ IN DT NN .
+2760| Jewish men and boys r sitting reading Torah .|ADJ NOUN CCONJ NOUN X VERB VERB PROPN PUNCT|JJ NNS CC NNS XX VBG VBG NNP .
+2761| A man and woman are sitting on a train looking to the right .|DET NOUN CCONJ NOUN AUX VERB ADP DET NOUN VERB ADP DET NOUN PUNCT|DT NN CC NN VBP VBG IN DT NN VBG IN DT NN .
+2762| The man in a white shirt is skateboarding .|DET NOUN ADP DET ADJ NOUN AUX VERB PUNCT|DT NN IN DT JJ NN VBZ VBG .
+2763| A boy is flying a kite and smiling at the camera .|DET NOUN AUX VERB DET NOUN CCONJ VERB ADP DET NOUN PUNCT|DT NN VBZ VBG DT NN CC VBG IN DT NN .
+2764| A child looks bewildered as he lies next to his red sled .|DET NOUN VERB ADJ SCONJ PRON VERB ADV ADP PRON NOUN ADJ PUNCT|DT NN VBZ JJ IN PRP VBZ RB IN PRP$ NN JJ .
+2765| Woman at Walmart check-out having her groceries bagged by an employee .|NOUN ADP PROPN VERB ADP VERB PRON NOUN VERB ADP DET NOUN PUNCT|NN IN NNP VB RP VBG PRP$ NNS VBN IN DT NN .
+2766| a young man jumping a back flip off of a concrete wall .|DET ADJ NOUN VERB DET NOUN VERB ADP ADP DET ADJ NOUN PUNCT|DT JJ NN VBG DT NN VBN IN IN DT JJ NN .
+2767| A child in a blue shirt is holding an orange butterfly .|DET NOUN ADP DET ADJ NOUN AUX VERB DET NOUN NOUN PUNCT|DT NN IN DT JJ NN VBZ VBG DT NN NN .
+2768| A man and a woman smile for the camera .|DET NOUN CCONJ DET NOUN VERB ADP DET NOUN PUNCT|DT NN CC DT NN VB IN DT NN .
+2769| A blond girl in a black shirt is writing something .|DET ADJ NOUN ADP DET ADJ NOUN AUX VERB PRON PUNCT|DT JJ NN IN DT JJ NN VBZ VBG NN .
+2770| A male scuba diver and two male workers are on a dirty fishing boat deep in thought .|DET ADJ NOUN NOUN CCONJ NUM ADJ NOUN AUX ADP DET ADJ NOUN NOUN ADV ADP NOUN PUNCT|DT JJ NN NN CC CD JJ NNS VBP IN DT JJ NN NN RB IN NN .
+2771| A man trying to block another man from shooting the ball in .|DET NOUN VERB PART VERB DET NOUN ADP VERB DET NOUN ADP PUNCT|DT NN VBG TO VB DT NN IN VBG DT NN RP .
+2772| A brown dog opens his mouth to catch a piece of food .|DET ADJ NOUN VERB PRON NOUN PART VERB DET NOUN ADP NOUN PUNCT|DT JJ NN VBZ PRP$ NN TO VB DT NN IN NN .
+2773| A boy wearing swimming goggles cups his hands while in a pool .|DET NOUN VERB NOUN NOUN VERB PRON NOUN SCONJ ADP DET NOUN PUNCT|DT NN VBG NN NNS VBZ PRP$ NNS IN IN DT NN .
+2774| A dog chases a deer on a field with yellow flowers .|DET NOUN VERB DET NOUN ADP DET NOUN ADP ADJ NOUN PUNCT|DT NN VBZ DT NN IN DT NN IN JJ NNS .
+2775| Two sports players are playing cricket on a field .|NUM NOUN NOUN AUX VERB NOUN ADP DET NOUN PUNCT|CD NNS NNS VBP VBG NN IN DT NN .
+2776| Man with guitar holding a microphone in one hand and extending his other arm .|NOUN ADP NOUN VERB DET NOUN ADP NUM NOUN CCONJ VERB PRON ADJ NOUN PUNCT|NN IN NN VBG DT NN IN CD NN CC VBG PRP$ JJ NN .
+2777| Young child getting ready to bowl a ball toward a pin while playing bowling .|ADJ NOUN VERB ADJ PART VERB DET NOUN ADP DET NOUN SCONJ VERB NOUN PUNCT|JJ NN VBG JJ TO VB DT NN IN DT NN IN VBG NN .
+2778| A young man wearing blue jeans and converse is dancing while grasping the hand of a young lady|DET ADJ NOUN VERB ADJ NOUN CCONJ NOUN AUX VERB SCONJ VERB DET NOUN ADP DET ADJ NOUN|DT JJ NN VBG JJ NNS CC NN VBZ VBG IN VBG DT NN IN DT JJ NN
+2779| Two motorcycles parked in one parking space .|NUM NOUN VERB ADP NUM NOUN NOUN PUNCT|CD NNS VBN IN CD NN NN .
+2780| A woman running in a triathlon wearing a green shirt .|DET NOUN VERB ADP DET NOUN VERB DET ADJ NOUN PUNCT|DT NN VBG IN DT NN VBG DT JJ NN .
+2781| i do n't see a picture i do n't see a picture i do n't see a picture|PRON AUX PART VERB DET NOUN PRON AUX PART VERB DET NOUN PRON AUX PART VERB DET NOUN|PRP VBP RB VB DT NN PRP VBP RB VB DT NN PRP VBP RB VB DT NN
+2782| A woman is holding a basket while wearing a silver wig .|DET NOUN AUX VERB DET NOUN SCONJ VERB DET ADJ NOUN PUNCT|DT NN VBZ VBG DT NN IN VBG DT JJ NN .
+2783| Woman on the clifftop trying to fly .|NOUN ADP DET NOUN VERB PART VERB PUNCT|NN IN DT NN VBG TO VB .
+2784| A greasy haired man with a mustache explaining what is wrong with the object in his hand .|DET ADJ ADJ NOUN ADP DET NOUN VERB PRON AUX ADJ ADP DET NOUN ADP PRON NOUN PUNCT|DT JJ JJ NN IN DT NN VBG WP VBZ JJ IN DT NN IN PRP$ NN .
+2785| A female tennis player readies herself .|DET ADJ NOUN NOUN VERB PRON PUNCT|DT JJ NN NN VBZ PRP .
+2786| A black and white dog looks at a man about to throw something .|DET ADJ CCONJ ADJ NOUN VERB ADP DET NOUN ADP PART VERB PRON PUNCT|DT JJ CC JJ NN VBZ IN DT NN IN TO VB NN .
+2787| A race car speeding on the track .|DET NOUN NOUN NOUN ADP DET NOUN PUNCT|DT NN NN NN IN DT NN .
+2788| A man grilling and another man in blue shirt holding a beer .|DET NOUN VERB CCONJ DET NOUN ADP ADJ NOUN VERB DET NOUN PUNCT|DT NN VBG CC DT NN IN JJ NN VBG DT NN .
+2789| A man has climbed to the top of a red light pole and is touching the light .|DET NOUN AUX VERB ADP DET NOUN ADP DET ADJ NOUN NOUN CCONJ AUX VERB DET NOUN PUNCT|DT NN VBZ VBN IN DT NN IN DT JJ NN NN CC VBZ VBG DT NN .
+2790| A woman is reading a newspaper on the subway .|DET NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG DT NN IN DT NN .
+2791| A little girl is running while feeding the ducks .|DET ADJ NOUN AUX VERB SCONJ VERB DET NOUN PUNCT|DT JJ NN VBZ VBG IN VBG DT NNS .
+2792| A shirtless man catches a football|DET NOUN NOUN VERB DET NOUN|DT NN NN VBZ DT NN
+2793| A man is using a machine on the ground in front of a stone peacock .|DET NOUN AUX VERB DET NOUN ADP DET NOUN ADP NOUN ADP DET NOUN NOUN PUNCT|DT NN VBZ VBG DT NN IN DT NN IN NN IN DT NN NN .
+2794| A smiling man in a white shirt is grilling on an open grill .|DET VERB NOUN ADP DET ADJ NOUN AUX VERB ADP DET ADJ NOUN PUNCT|DT VBG NN IN DT JJ NN VBZ VBG IN DT JJ NN .
+2795| A woman with glasses squats in a forest setting next to a large white mushroom .|DET NOUN ADP NOUN NOUN ADP DET NOUN NOUN ADV ADP DET ADJ ADJ NOUN PUNCT|DT NN IN NNS NNS IN DT NN NN RB IN DT JJ JJ NN .
+2796| A group of people riding horses in a grassy field .|DET NOUN ADP NOUN VERB NOUN ADP DET ADJ NOUN PUNCT|DT NN IN NNS VBG NNS IN DT JJ NN .
+2797| There are people on the beach in the sand .|PRON VERB NOUN ADP DET NOUN ADP DET NOUN PUNCT|EX VBP NNS IN DT NN IN DT NN .
+2798| A group of people riding the subway both sitting and standing .|DET NOUN ADP NOUN VERB DET NOUN PRON VERB CCONJ VERB PUNCT|DT NN IN NNS VBG DT NN DT VBG CC VBG .
+2799| A woman wearing a helmet and elbow pads .|DET NOUN VERB DET NOUN CCONJ VERB NOUN PUNCT|DT NN VBG DT NN CC VB NNS .
+2800| A woman in a brown jacket reads from a book while riding on public transit .|DET NOUN ADP DET ADJ NOUN VERB ADP DET NOUN SCONJ VERB ADP ADJ NOUN PUNCT|DT NN IN DT JJ NN VBZ IN DT NN IN VBG IN JJ NN .
+2801| People standing and walking on the street together with their kids|NOUN VERB CCONJ VERB ADP DET NOUN ADV ADP PRON NOUN|NNS VBG CC VBG IN DT NN RB IN PRP$ NNS
+2802| A woman in a white shirt is shown from behind in a cemetery .|DET NOUN ADP DET ADJ NOUN AUX VERB ADP ADV ADP DET NOUN PUNCT|DT NN IN DT JJ NN VBZ VBN IN RB IN DT NN .
+2803| A woman with dark hair is standing in front of a black fence .|DET NOUN ADP ADJ NOUN AUX VERB ADP NOUN ADP DET ADJ NOUN PUNCT|DT NN IN JJ NN VBZ VBG IN NN IN DT JJ NN .
+2804| Asian people sitting at a restaurant with yellow chairs .|ADJ NOUN VERB ADP DET NOUN ADP ADJ NOUN PUNCT|JJ NNS VBG IN DT NN IN JJ NNS .
+2805| A baby reaching into a water fountain .|DET NOUN VERB ADP DET NOUN NOUN PUNCT|DT NN VBG IN DT NN NN .
+2806| Two children standing under an awning .|NUM NOUN VERB ADP DET NOUN PUNCT|CD NNS VBG IN DT NN .
+2807| A white dog with a spot on his eye running through a meadow .|DET ADJ NOUN ADP DET NOUN ADP PRON NOUN VERB ADP DET NOUN PUNCT|DT JJ NN IN DT NN IN PRP$ NN VBG IN DT NN .
+2808| The dog is running quickly through the meadow .|DET NOUN AUX VERB ADV ADP DET NOUN PUNCT|DT NN VBZ VBG RB IN DT NN .
+2809| A woman intensely playing tennis in an all-white outfit .|DET NOUN ADV VERB NOUN ADP DET DET ADJ NOUN PUNCT|DT NN RB VBG NN IN DT DT JJ NN .
+2810| A woman skier smiles for the camera while on a snowy slope .|DET NOUN NOUN VERB ADP DET NOUN SCONJ ADP DET ADJ NOUN PUNCT|DT NN NN VBZ IN DT NN IN IN DT JJ NN .
+2811| Two young men walking on a city sidewalk in the rain .|NUM ADJ NOUN VERB ADP DET NOUN NOUN ADP DET NOUN PUNCT|CD JJ NNS VBG IN DT NN NN IN DT NN .
+2812| Two military men and five men in suits all sit together at a table with menus .|NUM ADJ NOUN CCONJ NUM NOUN ADP NOUN PRON VERB ADV ADP DET NOUN ADP NOUN PUNCT|CD JJ NNS CC CD NNS IN NNS DT VBP RB IN DT NN IN NNS .
+2813| Male chef playfully presenting his latest creation .|ADJ NOUN ADV VERB PRON ADJ NOUN PUNCT|JJ NN RB VBG PRP$ JJS NN .
+2814| A boy shooting a basketball while several people in the stands look uninterested .|DET NOUN VERB DET NOUN SCONJ ADJ NOUN ADP DET NOUN VERB ADJ PUNCT|DT NN VBG DT NN IN JJ NNS IN DT NNS VBP JJ .
+2815| Men playing soccer on an outdoor field .|NOUN VERB NOUN ADP DET ADJ NOUN PUNCT|NNS VBG NN IN DT JJ NN .
+2816| A smiling woman carries two baskets full of produce on a bamboo pole .|DET VERB NOUN VERB NUM NOUN ADJ ADP NOUN ADP DET NOUN NOUN PUNCT|DT VBG NN VBZ CD NNS JJ IN NN IN DT NN NN .
+2817| Family hiking in the woods with two children .|NOUN VERB ADP DET NOUN ADP NUM NOUN PUNCT|NN VBG IN DT NNS IN CD NNS .
+2818| A black and white dog is jumping into the water .|DET ADJ CCONJ ADJ NOUN AUX VERB ADP DET NOUN PUNCT|DT JJ CC JJ NN VBZ VBG IN DT NN .
+2819| 6 asian males sitting together drinking pepsi and eating meat .|NUM ADJ NOUN VERB ADV VERB PROPN CCONJ VERB NOUN PUNCT|CD JJ NNS VBG RB VBG NNP CC VBG NN .
+2820| One dog is chasing another dog that is carrying something in its mouth along the beach .|NUM NOUN AUX VERB DET NOUN PRON AUX VERB PRON ADP PRON NOUN ADP DET NOUN PUNCT|CD NN VBZ VBG DT NN WDT VBZ VBG NN IN PRP$ NN IN DT NN .
+2821| A group of people dressed in swimwear standing outside in a snowy , woodsy location .|DET NOUN ADP NOUN VERB ADP ADJ VERB ADV ADP DET PROPN PUNCT PROPN NOUN PUNCT|DT NN IN NNS VBN IN JJ VBG RB IN DT NNP , NNP NN .
+2822| A knight on horseback and another man reenact a medieval scene for a group of spectators .|DET NOUN ADP NOUN CCONJ DET NOUN VERB DET ADJ NOUN ADP DET NOUN ADP NOUN PUNCT|DT NN IN NN CC DT NN VB DT JJ NN IN DT NN IN NNS .
+2823| Young boy holding a toy in a store .|ADJ NOUN VERB DET NOUN ADP DET NOUN PUNCT|JJ NN VBG DT NN IN DT NN .
+2824| A crowd gathered in Covent Garden Market .|DET NOUN VERB ADP PROPN PROPN PROPN PUNCT|DT NN VBD IN NNP NNP NNP .
+2825| A rooster on a perch in front of an old man .|DET NOUN ADP DET NOUN ADP NOUN ADP DET ADJ NOUN PUNCT|DT NN IN DT NN IN NN IN DT JJ NN .
+2826| A woman smiles as she appears to be text messaging .|DET NOUN VERB SCONJ PRON VERB PART AUX NOUN NOUN PUNCT|DT NN VBZ IN PRP VBZ TO VB NN NN .
+2827| A fighter attempts to kick another fighter while the other fighter blocks his kick .|DET NOUN VERB PART VERB DET NOUN SCONJ DET ADJ NOUN VERB PRON NOUN PUNCT|DT NN VBZ TO VB DT NN IN DT JJ NN VBZ PRP$ NN .
+2828| A person playing a guitar while singing into a microphone .|DET NOUN VERB DET NOUN SCONJ VERB ADP DET NOUN PUNCT|DT NN VBG DT NN IN VBG IN DT NN .
+2829| Two children are jumping off a wall .|NUM NOUN AUX VERB ADP DET NOUN PUNCT|CD NNS VBP VBG IN DT NN .
+2830| A young african child in a dirty white shirt holds a stool on his head .|DET ADJ ADJ NOUN ADP DET ADJ ADJ NOUN VERB DET NOUN ADP PRON NOUN PUNCT|DT JJ JJ NN IN DT JJ JJ NN VBZ DT NN IN PRP$ NN .
+2831| A man wearing white is hanging thread on a pole made of bamboo .|DET NOUN VERB ADJ AUX VERB NOUN ADP DET NOUN VERB ADP NOUN PUNCT|DT NN VBG JJ VBZ VBG NN IN DT NN VBN IN NN .
+2832| A woman in a black shirt has a tattoo on her leg .|DET NOUN ADP DET ADJ NOUN VERB DET NOUN ADP PRON NOUN PUNCT|DT NN IN DT JJ NN VBZ DT NN IN PRP$ NN .
+2833| Two men , one with a mohawk , are standing together on the street .|NUM NOUN PUNCT NUM ADP DET NOUN PUNCT AUX VERB ADV ADP DET NOUN PUNCT|CD NNS , CD IN DT NN , VBP VBG RB IN DT NN .
+2834| An elderly couple is getting some food from the table at a party .|DET ADJ NOUN AUX VERB DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ VBG DT NN IN DT NN IN DT NN .
+2835| A man lies down and rests his head on a pillow between two rows of white columns .|DET NOUN VERB ADP CCONJ VERB PRON NOUN ADP DET NOUN ADP NUM NOUN ADP ADJ NOUN PUNCT|DT NN VBZ RP CC VBZ PRP$ NN IN DT NN IN CD NNS IN JJ NNS .
+2836| A woman wearing a fanny pack is taking a photo of a red car .|DET NOUN VERB DET ADJ NOUN AUX VERB DET NOUN ADP DET ADJ NOUN PUNCT|DT NN VBG DT JJ NN VBZ VBG DT NN IN DT JJ NN .
+2837| A boy holding a stick jumping Ont he street .|DET NOUN VERB DET NOUN VERB PROPN PRON NOUN PUNCT|DT NN VBG DT NN VBG NNP PRP NN .
+2838| Two dogs fighting in the snow .|NUM NOUN VERB ADP DET NOUN PUNCT|CD NNS VBG IN DT NN .
+2839| Child in athletic clothing climbing a tree .|NOUN ADP ADJ NOUN VERB DET NOUN PUNCT|NN IN JJ NN VBG DT NN .
+2840| A young dark-skinned fellow poses for a picture in front of a car covered with flowers .|DET ADJ ADJ ADJ NOUN NOUN ADP DET NOUN ADP NOUN ADP DET NOUN VERB ADP NOUN PUNCT|DT JJ JJ JJ NN NNS IN DT NN IN NN IN DT NN VBN IN NNS .
+2841| Several people are sitting outside eating in the city with Canadian flags flying .|ADJ NOUN AUX VERB ADV VERB ADP DET NOUN ADP ADJ NOUN VERB PUNCT|JJ NNS VBP VBG RB VBG IN DT NN IN JJ NNS VBG .
+2842| A man and a woman looking at a self check out machine .|DET NOUN CCONJ DET NOUN VERB ADP DET NOUN VERB ADP NOUN PUNCT|DT NN CC DT NN VBG IN DT NN VB RP NN .
+2843| A picture of a city with a sign welcoming travelers on a busy street .|DET NOUN ADP DET NOUN ADP DET NOUN VERB NOUN ADP DET ADJ NOUN PUNCT|DT NN IN DT NN IN DT NN VBG NNS IN DT JJ NN .
+2844| Man putting on a performance for the kids .|NOUN VERB ADP DET NOUN ADP DET NOUN PUNCT|NN VBG RP DT NN IN DT NNS .
+2845| Many people are sitting at tables that are located outdoors .|ADJ NOUN AUX VERB ADP NOUN PRON AUX VERB ADV PUNCT|JJ NNS VBP VBG IN NNS WDT VBP VBN RB .
+2846| A woman is being seen by a doctor who is wearing a flower hair cap .|DET NOUN AUX AUX VERB ADP DET NOUN PRON AUX VERB DET NOUN NOUN NOUN PUNCT|DT NN VBZ VBG VBN IN DT NN WP VBZ VBG DT NN NN NN .
+2847| A man and a young girl in a flowered dress are on the porch .|DET NOUN CCONJ DET ADJ NOUN ADP DET VERB NOUN AUX ADP DET NOUN PUNCT|DT NN CC DT JJ NN IN DT VBN NN VBP IN DT NN .
+2848| A tribal African man with an assault rifle stands next to a tribal African woman .|DET ADJ ADJ NOUN ADP DET NOUN NOUN VERB ADV ADP DET ADJ ADJ NOUN PUNCT|DT JJ JJ NN IN DT NN NN VBZ RB IN DT JJ JJ NN .
+2849| A group of people gather on the grass field and throw a pink hoop .|DET NOUN ADP NOUN VERB ADP DET NOUN NOUN CCONJ VERB DET ADJ NOUN PUNCT|DT NN IN NNS VBP IN DT NN NN CC VB DT JJ NN .
+2850| This is a large group of people sitting outside on benches .|PRON AUX DET ADJ NOUN ADP NOUN VERB ADV ADP NOUN PUNCT|DT VBZ DT JJ NN IN NNS VBG RB IN NNS .
+2851| The man is grilling hotdogs and hamburgers in the park .|DET NOUN AUX VERB NOUN CCONJ NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG NNS CC NNS IN DT NN .
+2852| A worker in a pizza store waiting to get customers .|DET NOUN ADP DET NOUN NOUN VERB PART VERB NOUN PUNCT|DT NN IN DT NN NN VBG TO VB NNS .
+2853| An action photo on stage of a punk rock band .|DET NOUN NOUN ADP NOUN ADP DET NOUN NOUN NOUN PUNCT|DT NN NN IN NN IN DT NN NN NN .
+2854| A man pours water on plants in a vast field of small plants .|DET NOUN VERB NOUN ADP NOUN ADP DET ADJ NOUN ADP ADJ NOUN PUNCT|DT NN VBZ NN IN NNS IN DT JJ NN IN JJ NNS .
+2855| Groups of people are riding down a river in rafts .|NOUN ADP NOUN AUX VERB ADP DET NOUN ADP NOUN PUNCT|NNS IN NNS VBP VBG RP DT NN IN NNS .
+2856| School field trip with many children having fun taking pictures .|NOUN NOUN NOUN ADP ADJ NOUN VERB NOUN VERB NOUN PUNCT|NN NN NN IN JJ NNS VBG NN VBG NNS .
+2857| Several construction workers are looking at an escalator|ADJ NOUN NOUN AUX VERB ADP DET NOUN|JJ NN NNS VBP VBG IN DT NN
+2858| Two people are landing from their skydiving exercises .|NUM NOUN AUX VERB ADP PRON VERB NOUN PUNCT|CD NNS VBP VBG IN PRP$ VBG NNS .
+2859| A young bespectacled woman has elaborate tattoo work done on her arms and chest .|DET ADJ VERB NOUN AUX VERB ADV NOUN VERB ADP PRON NOUN CCONJ NOUN PUNCT|DT JJ VBN NN VBZ VBN RB NN VBN IN PRP$ NNS CC NN .
+2860| Black and white dog jumping over a blue obstacle|ADJ CCONJ ADJ NOUN VERB ADP DET ADJ NOUN|JJ CC JJ NN VBG IN DT JJ NN
+2861| A male saxophone player belts out a song in the dim light of a local establishment .|DET ADJ NOUN NOUN VERB ADP DET NOUN ADP DET ADJ NOUN ADP DET ADJ NOUN PUNCT|DT JJ NN NN VBZ RP DT NN IN DT JJ NN IN DT JJ NN .
+2862| A young girl in a pink and white dress is hugging a graduate .|DET ADJ NOUN ADP DET ADJ CCONJ ADJ NOUN AUX VERB DET NOUN PUNCT|DT JJ NN IN DT JJ CC JJ NN VBZ VBG DT NN .
+2863| A dusty boy runs along a dirt path through the grass .|DET ADJ NOUN VERB ADP DET NOUN NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ IN DT NN NN IN DT NN .
+2864| Two children in blue shirts laying on benches|NUM NOUN ADP ADJ NOUN VERB ADP NOUN|CD NNS IN JJ NNS VBG IN NNS
+2865| A lone hiker walking along a path in a high mountainous area .|DET ADJ NOUN VERB ADP DET NOUN ADP DET ADJ ADJ NOUN PUNCT|DT JJ NN VBG IN DT NN IN DT JJ JJ NN .
+2866| a man on a bench feeds a dog .|DET NOUN ADP DET NOUN VERB DET NOUN PUNCT|DT NN IN DT NN VBZ DT NN .
+2867| A man and a woman are swimming in a pool dancing together in the water .|DET NOUN CCONJ DET NOUN AUX VERB ADP DET NOUN VERB ADV ADP DET NOUN PUNCT|DT NN CC DT NN VBP VBG IN DT NN VBG RB IN DT NN .
+2868| A group of friends are standing around a man who is sitting and celebrating .|DET NOUN ADP NOUN AUX VERB ADP DET NOUN PRON AUX VERB CCONJ VERB PUNCT|DT NN IN NNS VBP VBG IN DT NN WP VBZ VBG CC VBG .
+2869| A man and a young child in water .|DET NOUN CCONJ DET ADJ NOUN ADP NOUN PUNCT|DT NN CC DT JJ NN IN NN .
+2870| A woman walking in front of a yellow building .|DET NOUN VERB ADP NOUN ADP DET ADJ NOUN PUNCT|DT NN VBG IN NN IN DT JJ NN .
+2871| People relaxing in the park .|NOUN VERB ADP DET NOUN PUNCT|NNS VBG IN DT NN .
+2872| Two men with spurs on their boots are standing behind a truck .|NUM NOUN ADP NOUN ADP PRON NOUN AUX VERB ADP DET NOUN PUNCT|CD NNS IN NNS IN PRP$ NNS VBP VBG IN DT NN .
+2873| Man with white shirt and blue jeans doing a handstand on the grass .|NOUN ADP PROPN NOUN CCONJ ADJ NOUN VERB DET NOUN ADP DET NOUN PUNCT|NN IN NNP NN CC JJ NNS VBG DT NN IN DT NN .
+2874| A man at a rodeo is being knocked of a horse who is rearing up .|DET NOUN ADP DET NOUN AUX AUX VERB ADP DET NOUN PRON AUX VERB ADP PUNCT|DT NN IN DT NN VBZ VBG VBN IN DT NN WP VBZ VBG RP .
+2875| A female singer wearing red and black leather is performing on stage .|DET ADJ NOUN VERB ADJ CCONJ ADJ NOUN AUX VERB ADP NOUN PUNCT|DT JJ NN VBG JJ CC JJ NN VBZ VBG IN NN .
+2876| A female French archer is about to fire a shot using her professional bow .|DET ADJ ADJ NOUN AUX ADJ PART VERB DET NOUN VERB PRON ADJ NOUN PUNCT|DT JJ JJ NN VBZ JJ TO VB DT NN VBG PRP$ JJ NN .
+2877| A woman playing an acoustic guitar with a microphone|DET NOUN VERB DET ADJ NOUN ADP DET NOUN|DT NN VBG DT JJ NN IN DT NN
+2878| Three women clap and sing at a crosswalk .|NUM NOUN VERB CCONJ VERB ADP DET NOUN PUNCT|CD NNS VBD CC VB IN DT NN .
+2879| A sun filled area with posters on the cement pillars .|DET NOUN VERB NOUN ADP NOUN ADP DET NOUN NOUN PUNCT|DT NN VBN NN IN NNS IN DT NN NNS .
+2880| kids getting ready to hit a volleyball .|NOUN VERB ADJ PART VERB DET NOUN PUNCT|NNS VBG JJ TO VB DT NN .
+2881| Four girls do backbends while playing outdoors .|NUM NOUN VERB NOUN SCONJ VERB ADV PUNCT|CD NNS VBP NNS IN VBG RB .
+2882| A male construction working is applying parts to a bridge .|DET ADJ NOUN VERB AUX VERB NOUN ADP DET NOUN PUNCT|DT JJ NN VBG VBZ VBG NNS IN DT NN .
+2883| An overweight family with sling across bags stand near a group of people .|DET ADJ NOUN ADP NOUN ADP NOUN VERB ADP DET NOUN ADP NOUN PUNCT|DT JJ NN IN NN IN NNS VBP IN DT NN IN NNS .
+2884| The person on the bicycle is wearing red .|DET NOUN ADP DET NOUN AUX VERB ADJ PUNCT|DT NN IN DT NN VBZ VBG JJ .
+2885| A man is using spray paint to paint a picture on a wall .|DET NOUN AUX VERB NOUN NOUN PART VERB DET NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG NN NN TO VB DT NN IN DT NN .
+2886| A happy construction worker stands , gazing at something , with his noise-reducing headphones on his helmet .|DET ADJ NOUN NOUN VERB PUNCT VERB ADP PRON PUNCT ADP PRON NOUN VERB NOUN ADP PRON NOUN PUNCT|DT JJ NN NN VBZ , VBG IN NN , IN PRP$ NN VBG NNS IN PRP$ NN .
+2887| Three children are on a dirt trail .|NUM NOUN AUX ADP DET NOUN NOUN PUNCT|CD NNS VBP IN DT NN NN .
+2888| A black dog and a brown dog are playing rough on green grass .|DET ADJ NOUN CCONJ DET ADJ NOUN AUX VERB ADV ADP ADJ NOUN PUNCT|DT JJ NN CC DT JJ NN VBP VBG RB IN JJ NN .
+2889| A baby boy in a car seat is asleep and crying .|DET NOUN NOUN ADP DET NOUN NOUN AUX ADJ CCONJ VERB PUNCT|DT NN NN IN DT NN NN VBZ JJ CC VBG .
+2890| A man is building a wooden straight-backed chair .|DET NOUN AUX VERB DET ADJ ADJ VERB NOUN PUNCT|DT NN VBZ VBG DT JJ JJ VBN NN .
+2891| Many people in an urban setting waving flags and setting off smoke bombs .|ADJ NOUN ADP DET ADJ NOUN VERB NOUN CCONJ VERB ADP NOUN NOUN PUNCT|JJ NNS IN DT JJ NN VBG NNS CC VBG RP NN NNS .
+2892| A woman is walking on the sidewalk with another person following behind her .|DET NOUN AUX VERB ADP DET NOUN ADP DET NOUN VERB ADP PRON PUNCT|DT NN VBZ VBG IN DT NN IN DT NN VBG IN PRP .
+2893| 3 guys playing music on stage .|NUM NOUN VERB NOUN ADP NOUN PUNCT|CD NNS VBG NN IN NN .
+2894| A man in a blue denim shirt is talking on his cellphone while wearing sunglasses .|DET NOUN ADP DET ADJ PROPN NOUN AUX VERB ADP PRON NOUN SCONJ VERB NOUN PUNCT|DT NN IN DT JJ NNP NN VBZ VBG IN PRP$ NN IN VBG NNS .
+2895| Four people are sitting on the beach , looking out towards the ocean .|NUM NOUN AUX VERB ADP DET NOUN PUNCT VERB ADP ADP DET NOUN PUNCT|CD NNS VBP VBG IN DT NN , VBG RP IN DT NN .
+2896| A shirtless male is riding a skateboard , performing a trick .|DET NOUN NOUN AUX VERB DET NOUN PUNCT VERB DET NOUN PUNCT|DT NN NN VBZ VBG DT NN , VBG DT NN .
+2897| The woman in the brown trench coat is trying to get a cab .|DET NOUN ADP DET ADJ NOUN NOUN AUX VERB PART VERB DET NOUN PUNCT|DT NN IN DT JJ NN NN VBZ VBG TO VB DT NN .
+2898| A family talks while lounging at a rocky beach with calm waters .|DET NOUN NOUN SCONJ VERB ADP DET ADJ NOUN ADP ADJ NOUN PUNCT|DT NN NNS IN VBG IN DT JJ NN IN JJ NNS .
+2899| Fat nerd with glasses and orange jacket walks through the forest .|ADJ NOUN ADP NOUN CCONJ ADJ NOUN VERB ADP DET NOUN PUNCT|JJ NN IN NNS CC JJ NN VBZ IN DT NN .
+2900| The three girls have pillows .|DET NUM NOUN VERB NOUN PUNCT|DT CD NNS VBP NNS .
+2901| Two men are riding down the street on a bicycle next to a gray building .|NUM NOUN AUX VERB ADP DET NOUN ADP DET NOUN ADV ADP DET ADJ NOUN PUNCT|CD NNS VBP VBG RP DT NN IN DT NN RB IN DT JJ NN .
+2902| A masked man in blue shirt and a tie holding papers in front of him .|DET ADJ NOUN ADP ADJ NOUN CCONJ DET NOUN VERB NOUN ADP NOUN ADP PRON PUNCT|DT JJ NN IN JJ NN CC DT NN VBG NNS IN NN IN PRP .
+2903| A man sitting at a piano singing .|DET NOUN VERB ADP DET NOUN NOUN PUNCT|DT NN VBG IN DT NN NN .
+2904| Two people wearing winter clothes stand near a pole in a winter scene .|NUM NOUN VERB NOUN NOUN VERB ADP DET NOUN ADP DET NOUN NOUN PUNCT|CD NNS VBG NN NNS VBP IN DT NN IN DT NN NN .
+2905| Two guys are playing baseball in a parking lot .|NUM NOUN AUX VERB NOUN ADP DET NOUN NOUN PUNCT|CD NNS VBP VBG NN IN DT NN NN .
+2906| The hiker nears a creek .|DET NOUN VERB DET NOUN PUNCT|DT NN VBZ DT NN .
+2907| Two people are watching a basketball game on a flat screen television .|NUM NOUN AUX VERB DET NOUN NOUN ADP DET ADJ NOUN NOUN PUNCT|CD NNS VBP VBG DT NN NN IN DT JJ NN NN .
+2908| Crosscountry skier striding ahead .|PROPN AUX VERB ADV PUNCT|NNP NN VBG RB .
+2909| A young lady is wearing bright pink sunglasses and sitting on a small trampoline .|DET ADJ NOUN AUX VERB ADJ ADJ NOUN CCONJ VERB ADP DET ADJ NOUN PUNCT|DT JJ NN VBZ VBG JJ JJ NNS CC VBG IN DT JJ NN .
+2910| Six people by body of water , all in jackets , three sitting on the dandelion-strewn ground .|NUM NOUN ADP NOUN ADP NOUN PUNCT PRON ADP NOUN PUNCT NUM VERB ADP DET NOUN VERB NOUN PUNCT|CD NNS IN NN IN NN , DT IN NNS , CD VBG IN DT NN VBN NN .
+2911| A tan dog runs through the brush .|DET NOUN NOUN VERB ADP DET NOUN PUNCT|DT NN NN VBZ IN DT NN .
+2912| The refugees are sitting with their children try to cook in the fire .|DET NOUN AUX VERB ADP PRON NOUN VERB PART VERB ADP DET NOUN PUNCT|DT NNS VBP VBG IN PRP$ NNS VB TO VB IN DT NN .
+2913| A black dog runs with a white dog|DET ADJ NOUN VERB ADP DET ADJ NOUN|DT JJ NN VBZ IN DT JJ NN
+2914| A person walks along the shoulder of a road in the desert .|DET NOUN VERB ADP DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBZ IN DT NN IN DT NN IN DT NN .
+2915| A man with a red shirt zipping up his zipper .|DET NOUN ADP DET ADJ NOUN VERB ADP PRON NOUN PUNCT|DT NN IN DT JJ NN VBG RP PRP$ NN .
+2916| A man is making balloon animals for a group of young children .|DET NOUN AUX VERB NOUN NOUN ADP DET NOUN ADP ADJ NOUN PUNCT|DT NN VBZ VBG NN NNS IN DT NN IN JJ NNS .
+2917| A dog holds a smaller animal in its mouth .|DET NOUN VERB DET ADJ NOUN ADP PRON NOUN PUNCT|DT NN VBZ DT JJR NN IN PRP$ NN .
+2918| A man is selling fish in a blue booth .|DET NOUN AUX VERB NOUN ADP DET ADJ NOUN PUNCT|DT NN VBZ VBG NN IN DT JJ NN .
+2919| People walking around in the daytime in a busy city .|NOUN VERB ADV ADP DET NOUN ADP DET ADJ NOUN PUNCT|NNS VBG RB IN DT NN IN DT JJ NN .
+2920| People cooking food over a fire .|NOUN VERB NOUN ADP DET NOUN PUNCT|NNS VBG NN IN DT NN .
+2921| A woman wearing a purple with black polka-dot hoodie is resting on a bench in the sunlight .|DET NOUN VERB DET NOUN ADP ADJ NOUN NOUN NOUN AUX VERB ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBG DT NN IN JJ NN NN NN VBZ VBG IN DT NN IN DT NN .
+2922| Shirtless man on high cliff with back to camera .|VERB NOUN ADP ADJ NOUN ADP ADV ADP NOUN PUNCT|VB NN IN JJ NN IN RB IN NN .
+2923| A baseball player in a Yankees uniform is holding a bat in one hand|DET NOUN NOUN ADP DET PROPN NOUN AUX VERB DET NOUN ADP NUM NOUN|DT NN NN IN DT NNP NN VBZ VBG DT NN IN CD NN
+2924| A man is sitting outside of a store on the ground , facing the street .|DET NOUN AUX VERB ADV ADP DET NOUN ADP DET NOUN PUNCT VERB DET NOUN PUNCT|DT NN VBZ VBG RB IN DT NN IN DT NN , VBG DT NN .
+2925| The man is rollerblading in a red hat , blue shirt , and tan pants .|DET NOUN AUX VERB ADP DET ADJ NOUN PUNCT ADJ NOUN PUNCT CCONJ PROPN NOUN PUNCT|DT NN VBZ VBG IN DT JJ NN , JJ NN , CC NNP NNS .
+2926| Three workers in bright yellow fluorescent shirts are working outside .|NUM NOUN ADP ADJ ADJ NOUN NOUN AUX VERB ADV PUNCT|CD NNS IN JJ JJ NN NNS VBP VBG RB .
+2927| A young boy is playing the trumpet at a concert .|DET ADJ NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ VBG DT NN IN DT NN .
+2928| A girl smiles while a boy makes a V sign behind her head .|DET NOUN VERB SCONJ DET NOUN VERB DET NOUN NOUN ADP PRON NOUN PUNCT|DT NN VBZ IN DT NN VBZ DT NN NN IN PRP$ NN .
+2929| people walking outside a transport station .|NOUN VERB ADP DET NOUN NOUN PUNCT|NNS VBG IN DT NN NN .
+2930| A man with a cowboy hat is talking with an older man .|DET NOUN ADP DET NOUN NOUN AUX VERB ADP DET ADJ NOUN PUNCT|DT NN IN DT NN NN VBZ VBG IN DT JJR NN .
+2931| Two elderly men sit on a park bench , with flowers in the background .|NUM ADJ NOUN VERB ADP DET NOUN NOUN PUNCT ADP NOUN ADP DET NOUN PUNCT|CD JJ NNS VBP IN DT NN NN , IN NNS IN DT NN .
+2932| Two young adults are setting up the video camera for some action .|NUM ADJ NOUN AUX VERB ADP DET NOUN NOUN ADP DET NOUN PUNCT|CD JJ NNS VBP VBG RP DT NN NN IN DT NN .
+2933| Mother lifting her child onto a spin roll toy .|NOUN VERB PRON NOUN ADP DET NOUN NOUN NOUN PUNCT|NN VBG PRP$ NN IN DT NN NN NN .
+2934| Two women outside with luggage walking away in separate directions .|NUM NOUN ADV ADP NOUN VERB ADV ADP ADJ NOUN PUNCT|CD NNS RB IN NN VBG RB IN JJ NNS .
+2935| Three men pouring cement from a cement truck .|NUM NOUN VERB NOUN ADP DET NOUN NOUN PUNCT|CD NNS VBG NN IN DT NN NN .
+2936| A large black dog relaxes while a small brown dog investigates nearby a doorway .|DET ADJ ADJ NOUN VERB SCONJ DET ADJ ADJ NOUN VERB ADV DET NOUN PUNCT|DT JJ JJ NN VBZ IN DT JJ JJ NN VBZ RB DT NN .
+2937| A woman walking down a crowded sidewalk talking on her cellphone .|DET NOUN VERB ADP DET ADJ NOUN VERB ADP PRON NOUN PUNCT|DT NN VBG IN DT JJ NN VBG IN PRP$ NN .
+2938| On a beautiful sunny day , this young man is performing the sport called waterskiing .|ADP DET ADJ ADJ NOUN PUNCT DET ADJ NOUN AUX VERB DET NOUN VERB ADJ PUNCT|IN DT JJ JJ NN , DT JJ NN VBZ VBG DT NN VBN JJ .
+2939| A man wearing a gray sweater and brown shorts cutting grass with a lawn mower .|DET NOUN VERB DET ADJ NOUN CCONJ ADJ NOUN VERB NOUN ADP DET NOUN NOUN PUNCT|DT NN VBG DT JJ NN CC JJ NNS VBG NN IN DT NN NN .
+2940| Three men weigh fish as they come off the boat on a scale by the coast .|NUM NOUN VERB NOUN SCONJ PRON VERB ADP DET NOUN ADP DET NOUN ADP DET NOUN PUNCT|CD NNS VBP NN IN PRP VBP IN DT NN IN DT NN IN DT NN .
+2941| A football player wearing black attempts to tackle a football player wearing white .|DET NOUN NOUN VERB ADJ NOUN PART VERB DET NOUN NOUN VERB ADJ PUNCT|DT NN NN VBG JJ NNS TO VB DT NN NN VBG JJ .
+2942| Lots of people in a farmers market shopping for fruits and vegetables .|NOUN ADP NOUN ADP DET NOUN NOUN NOUN ADP NOUN CCONJ NOUN PUNCT|NNS IN NNS IN DT NNS NN NN IN NNS CC NNS .
+2943| little girl is on beach and playing with sand|ADJ NOUN AUX ADP NOUN CCONJ VERB ADP NOUN|JJ NN VBZ IN NN CC VBG IN NN
+2944| A child in a red shirt is sitting against a wall with a map while eating .|DET NOUN ADP DET ADJ NOUN AUX VERB ADP DET NOUN ADP DET NOUN SCONJ VERB PUNCT|DT NN IN DT JJ NN VBZ VBG IN DT NN IN DT NN IN VBG .
+2945| A bike rider does a trick in the air .|DET NOUN NOUN VERB DET NOUN ADP DET NOUN PUNCT|DT NN NN VBZ DT NN IN DT NN .
+2946| People running downhill in a city .|NOUN VERB ADV ADP DET NOUN PUNCT|NNS VBG RB IN DT NN .
+2947| Two young women have a conversation as they walk|NUM ADJ NOUN VERB DET NOUN SCONJ PRON VERB|CD JJ NNS VBP DT NN IN PRP VBP
+2948| A basketball team of 8 girls is doing a hand huddle .|DET NOUN NOUN ADP NUM NOUN AUX VERB DET NOUN NOUN PUNCT|DT NN NN IN CD NNS VBZ VBG DT NN NN .
+2949| Two men are wrestling .|NUM NOUN AUX VERB PUNCT|CD NNS VBP VBG .
+2950| A man squatting in a park looking at something in the distance .|DET NOUN VERB ADP DET NOUN VERB ADP PRON ADP DET NOUN PUNCT|DT NN VBG IN DT NN VBG IN NN IN DT NN .
+2951| A man sitting on the ground props his feet up against the railing .|DET NOUN VERB ADP DET NOUN VERB PRON NOUN ADV ADP DET NOUN PUNCT|DT NN VBG IN DT NN VBZ PRP$ NNS RB IN DT NN .
+2952| A boy carries the Olympic torch through a crowd .|DET NOUN VERB DET ADJ NOUN ADP DET NOUN PUNCT|DT NN VBZ DT JJ NN IN DT NN .
+2953| A blond baby is watching a dark-haired baby chew on a blue toy .|DET ADJ NOUN AUX VERB DET ADJ ADJ NOUN VERB ADP DET ADJ NOUN PUNCT|DT JJ NN VBZ VBG DT JJ JJ NN VB IN DT JJ NN .
+2954| A man climbing the rocky face of a mountain .|DET NOUN VERB DET ADJ NOUN ADP DET NOUN PUNCT|DT NN VBG DT JJ NN IN DT NN .
+2955| Two men in a fishing boat on a river enjoy a pleasant morning .|NUM NOUN ADP DET NOUN NOUN ADP DET NOUN VERB DET ADJ NOUN PUNCT|CD NNS IN DT NN NN IN DT NN VBP DT JJ NN .
+2956| The man , looking very cold , is repairing a platform enclosure .|DET NOUN PUNCT VERB ADV ADJ PUNCT AUX VERB DET NOUN NOUN PUNCT|DT NN , VBG RB JJ , VBZ VBG DT NN NN .
+2957| A woman in a purple shirt and a man are standing in a street .|DET NOUN ADP DET ADJ NOUN CCONJ DET NOUN AUX VERB ADP DET NOUN PUNCT|DT NN IN DT JJ NN CC DT NN VBP VBG IN DT NN .
+2958| Children holding up a peace sign .|NOUN VERB ADP DET NOUN NOUN PUNCT|NNS VBG RP DT NN NN .
+2959| A little boy is swinging a bat at a ball .|DET ADJ NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT JJ NN VBZ VBG DT NN IN DT NN .
+2960| An older woman wearing a white striped shirt is working on clothing with a sowing machine .|DET ADJ NOUN VERB DET ADJ ADJ NOUN AUX VERB ADP NOUN ADP DET ADJ NOUN PUNCT|DT JJR NN VBG DT JJ JJ NN VBZ VBG IN NN IN DT JJ NN .
+2961| Two men playing guitars next to a microphone .|NUM NOUN VERB NOUN ADV ADP DET NOUN PUNCT|CD NNS VBG NNS RB IN DT NN .
+2962| Two rockers are singing and playing on a dark stage .|NUM NOUN AUX VERB CCONJ VERB ADP DET ADJ NOUN PUNCT|CD NNS VBP VBG CC VBG IN DT JJ NN .
+2963| The woman is placing an orange rose as a boutonniere on the man 's suit jacket collar .|DET NOUN AUX VERB DET NOUN VERB ADP DET NOUN ADP DET NOUN PART NOUN NOUN NOUN PUNCT|DT NN VBZ VBG DT NN VBD IN DT NN IN DT NN POS NN NN NN .
+2964| A group of teens are picking plants in a garden .|DET NOUN ADP NOUN AUX VERB NOUN ADP DET NOUN PUNCT|DT NN IN NNS VBP VBG NNS IN DT NN .
+2965| African American kids playing on a marry go round .|ADJ ADJ NOUN VERB ADP DET NOUN VERB ADV PUNCT|JJ JJ NNS VBG IN DT NN VB RB .
+2966| Four women pose for a photograph with a man in a bright yellow suit .|NUM NOUN VERB ADP DET NOUN ADP DET NOUN ADP DET ADV ADJ NOUN PUNCT|CD NNS VBP IN DT NN IN DT NN IN DT RB JJ NN .
+2967| A large huddle of young people in swimwear reaching their hands toward the center of their huddle .|DET ADJ NOUN ADP ADJ NOUN ADP NOUN VERB PRON NOUN ADP DET NOUN ADP PRON NOUN PUNCT|DT JJ NN IN JJ NNS IN NN VBG PRP$ NNS IN DT NN IN PRP$ NN .
+2968| A woman brushes dust and dirt off a possible find .|DET NOUN VERB NOUN CCONJ NOUN ADP DET ADJ NOUN PUNCT|DT NN VBZ NN CC NN RP DT JJ NN .
+2969| Three blonds dressed in black and white walk across a bridge in the daytime .|NUM NOUN VERB ADP ADJ CCONJ ADJ NOUN ADP DET NOUN ADP DET NOUN PUNCT|CD NNS VBN IN JJ CC JJ NN IN DT NN IN DT NN .
+2970| Four men sit on the found in front of a church or synagogue .|NUM NOUN VERB ADP DET VERB ADP NOUN ADP DET NOUN CCONJ NOUN PUNCT|CD NNS VBP IN DT VBN IN NN IN DT NN CC NN .
+2971| A few people commuting on a street .|DET ADJ NOUN VERB ADP DET NOUN PUNCT|DT JJ NNS VBG IN DT NN .
+2972| Two people rafting down a river near pine trees .|NUM NOUN VERB ADP DET NOUN ADP ADJ NOUN PUNCT|CD NNS VBG IN DT NN IN JJ NNS .
+2973| A young girl is washing her teddy bear in the kitchen sink .|DET ADJ NOUN AUX VERB PRON PROPN VERB ADP DET NOUN NOUN PUNCT|DT JJ NN VBZ VBG PRP$ NNP VB IN DT NN NN .
+2974| Two men are holding hands and walking through a grassy area .|NUM NOUN AUX VERB NOUN CCONJ VERB ADP DET ADJ NOUN PUNCT|CD NNS VBP VBG NNS CC VBG IN DT JJ NN .
+2975| An old man , wearing a pink shirt and a brightly decorated vest , plays the clarinet .|DET ADJ NOUN PUNCT VERB DET ADJ NOUN CCONJ DET ADV VERB NOUN PUNCT VERB DET NOUN PUNCT|DT JJ NN , VBG DT JJ NN CC DT RB VBN NN , VBZ DT NN .
+2976| An elderly couple dances next to a table where a boy is sitting with his head down .|DET ADJ NOUN NOUN ADV ADP DET NOUN SCONJ DET NOUN AUX VERB ADP PRON NOUN ADP PUNCT|DT JJ NN NNS RB IN DT NN WRB DT NN VBZ VBG IN PRP$ NN RP .
+2977| A woman holding a toddler while pointing in the direction of the camera .|DET NOUN VERB DET NOUN SCONJ VERB ADP DET NOUN ADP DET NOUN PUNCT|DT NN VBG DT NN IN VBG IN DT NN IN DT NN .
+2978| Three ladies wearing costumes walking through a mall .|NUM NOUN VERB NOUN VERB ADP DET NOUN PUNCT|CD NNS VBG NNS VBG IN DT NN .
+2979| Two men in green shirts are standing in a yard .|NUM NOUN ADP ADJ NOUN AUX VERB ADP DET NOUN PUNCT|CD NNS IN JJ NNS VBP VBG IN DT NN .
+2980| A man looks out over frozen tundra .|DET NOUN VERB ADP ADP ADJ NOUN PUNCT|DT NN VBZ RP IN JJ NN .
+2981| Two young girls in a lake talking to each other .|NUM ADJ NOUN ADP DET NOUN VERB ADP DET ADJ PUNCT|CD JJ NNS IN DT NN VBG IN DT JJ .
+2982| A woman reading a book titled the boy scout hand book .|DET NOUN VERB DET NOUN VERB DET NOUN NOUN NOUN NOUN PUNCT|DT NN VBG DT NN VBN DT NN NN NN NN .
+2983| A group of Asians walking threw a big city .|DET NOUN ADP PROPN VERB VERB DET ADJ NOUN PUNCT|DT NN IN NNPS VBG VBD DT JJ NN .
+2984| A woman is riding a bicycle down the street .|DET NOUN AUX VERB DET NOUN ADP DET NOUN PUNCT|DT NN VBZ VBG DT NN IN DT NN .
+2985| A woman with a graphic patterned jacket is standing at a table covered with paper forms .|DET NOUN ADP DET ADJ VERB NOUN AUX VERB ADP DET NOUN VERB ADP NOUN NOUN PUNCT|DT NN IN DT JJ VBN NN VBZ VBG IN DT NN VBN IN NN NNS .
+2986| There are two dogs playing in the dirt .|PRON VERB NUM NOUN VERB ADP DET NOUN PUNCT|EX VBP CD NNS VBG IN DT NN .
+2987| A man is poling in a canoe in a tropical location .|DET NOUN AUX VERB ADP DET NOUN ADP DET ADJ NOUN PUNCT|DT NN VBZ VBG IN DT NN IN DT JJ NN .
+2988| Three people are working on computers in a crowded office .|NUM NOUN AUX VERB ADP NOUN ADP DET ADJ NOUN PUNCT|CD NNS VBP VBG IN NNS IN DT JJ NN .
+2989| A dog sits still while looking at large rocks .|DET NOUN VERB ADV SCONJ VERB ADP ADJ NOUN PUNCT|DT NN VBZ RB IN VBG IN JJ NNS .
+2990| A construction worker bulldozes dirt clear .|DET NOUN NOUN VERB NOUN ADJ PUNCT|DT NN NN VBZ NN JJ .
+2991| Many people stand looking a woman holding a dog in a blue sack .|ADJ NOUN VERB VERB DET NOUN VERB DET NOUN ADP DET ADJ NOUN PUNCT|JJ NNS VBP VBG DT NN VBG DT NN IN DT JJ NN .
+2992| People are waiting in line to purchase something at a counter .|NOUN AUX VERB ADP NOUN PART VERB PRON ADP DET NOUN PUNCT|NNS VBP VBG IN NN TO VB NN IN DT NN .
+2993| A man in blue overalls plays the guitar .|DET NOUN ADP ADJ NOUN VERB DET NOUN PUNCT|DT NN IN JJ NNS VBZ DT NN .
+2994| People standing in line at a Pizza Pizza place .|NOUN VERB ADP NOUN ADP DET PROPN PROPN NOUN PUNCT|NNS VBG IN NN IN DT NNP NNP NN .
+2995| A young boy with blond-hair is in a swimming pool .|DET ADJ NOUN ADP ADJ NOUN AUX ADP DET NOUN NOUN PUNCT|DT JJ NN IN JJ NN VBZ IN DT NN NN .
+2996| Some men clean up and haul off yard debris on a sunny day .|DET NOUN VERB ADP CCONJ VERB ADP NOUN NOUN ADP DET ADJ NOUN PUNCT|DT NNS VBP RP CC VB RP NN NN IN DT JJ NN .
+2997| Around old beautiful buildings a crowd surrounds a man breakdancing .|ADP ADJ ADJ NOUN DET NOUN VERB DET NOUN VERB PUNCT|IN JJ JJ NNS DT NN VBZ DT NN VBG .
+2998| A person is in the ocean in the boat wearing life jacket .|DET NOUN AUX ADP DET NOUN ADP DET NOUN VERB NOUN NOUN PUNCT|DT NN VBZ IN DT NN IN DT NN VBG NN NN .
+2999| A man in a red shirt and blue hat travels the road on a motorcycle .|DET NOUN ADP DET ADJ NOUN CCONJ ADJ NOUN VERB DET NOUN ADP DET NOUN PUNCT|DT NN IN DT JJ NN CC JJ NN VBZ DT NN IN DT NN .

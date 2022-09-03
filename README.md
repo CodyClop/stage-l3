@@ -47,6 +47,9 @@ Some probing tasks have more arguments :
 - '--cols COLS' the number of columns for area classification grids
 - '[--coarse]' for part of speech tagging to use less specific classes
 - '[--cls]' for word position to use classification instead of regression
+
+"tmp_models" folder contains temporary models saved during cross validation.
+
 <hr>
 
 # Tasks
